@@ -14,7 +14,7 @@ def padnumber(x):
     padded_version = str(x)
   return padded_version
 
-df = pd.read_csv('sample_list.csv')
+df = pd.read_csv('sample_list2.csv')
 
 this_section_number = '1'
 padded_this_section_number = padnumber(this_section_number)
@@ -115,25 +115,56 @@ def make_template(this_section_number,film_title,film_director,film_year,film_ru
   section_number_3 = section_number_3
   padded_section_number_3 = padnumber(section_number_3)
   print('<TITLE>')
-  print('  Section ' + this_section_number + ' - ' + film_title)
+  print('  Section ' + str(this_section_number) + ' - ' + str(film_title))
   print('</TITLE>')
   print('')
-  print('<h2>' + film_title + '</h2>')
+  print('<h2>' + str(film_title) + '</h2>')
   print('<P>')
-  print('<I>' + film_director + '</I>')
+  print('<I>' + str(film_director) + '</I>')
   print('<P>')
-  print('<I>' + film_year + '</I>')
+  print('<I>' + str(film_year) + '</I>')
   print('<P>')
-  print('<I>' + film_running_time + ' minutes</I>')
+  print('<I>' + str(film_running_time) + ' minutes</I>')
   print('<P>')
-  print(text_section)
+  print(str(text_section))
   print('<P>')
-  print('<I>' + choose_section + '</I>')
+  print('<I>' + str(choose_section) + '</I>')
   print('<P>')
   print('<UL>')
-  print('  <LI><I>' + option_text_1 + '</I> - <A HREF="' + padded_section_number_1 + '.html">Turn to section ' + section_number_1 + '</A>')
-  print('  <LI><I>' + option_text_2 + '</I> - <A HREF="' + padded_section_number_2 + '.html">Turn to section ' + section_number_2 + '</A>')
-  print('  <LI><I>' + option_text_3 + '</I> - <A HREF="' + padded_section_number_3 + '.html">Turn to section ' + section_number_3 + '</A>')
+  print('  <LI><I>' + str(option_text_1) + '</I> - <A HREF="' + str(padded_section_number_1) + '.html">Turn to section ' + str(section_number_1) + '</A>')
+  print('  <LI><I>' + str(option_text_2) + '</I> - <A HREF="' + str(padded_section_number_2) + '.html">Turn to section ' + str(section_number_2) + '</A>')
+  print('  <LI><I>' + str(option_text_3) + '</I> - <A HREF="' + str(padded_section_number_3) + '.html">Turn to section ' + str(section_number_3) + '</A>')
   print('</UL>')
 
+#make_template(this_section_number,film_title,film_director,film_year,film_running_time,text_section,choose_section,option_text_1,section_number_1,option_text_2,section_number_2,option_text_3,section_number_3)
+
+
+print(df)
+for index,row in df.iterrows():
+  this_section_number = row['this_section_number']
+  film_title = row['film_title']
+  film_director = row['film_director']
+  film_year = row['film_year']
+  film_running_time = row['film_running_time']
+  text_section = row['text_section']
+  choose_section = row['choose_section']
+  option_text_1 = row['option_text_1']
+  section_number_1 = row['section_number_1']
+  option_text_2 = row['option_text_2']
+  section_number_2 = row ['section_number_2']
+  option_text_3 = row['option_text_3']
+  section_number_3 = row['section_number_3']
+#  print(this_section_number)
+#  print(film_title)
+#  print(film_director)
+#  print(film_year)
+#  print(film_running_time)
+#  print(text_section)
+#  print(choose_section)
+#  print(option_text_1)
+#  print(section_number_1)
+#  print(option_text_2)
+#  print(section_number_2)
+#  print(option_text_3)
+#  print(section_number_3)
 make_template(this_section_number,film_title,film_director,film_year,film_running_time,text_section,choose_section,option_text_1,section_number_1,option_text_2,section_number_2,option_text_3,section_number_3)
