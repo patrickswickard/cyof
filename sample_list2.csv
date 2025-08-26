@@ -1,251 +1,251 @@
 this_section_number,film_title,film_director,film_year,film_running_time,text_section,choose_section,option_text_1,option_text_2,option_text_3,section_number_1,section_number_2,section_number_3
 1,Dogtooth,Yorgos Lanthimos,2009,97,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,39,247,248
-2,Shutter Island,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,228,55,224
-3,There Will Be Blood,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,30,86,225
-4,Rent,UNKNOWN,1984,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,56,215,168
-5,Rock n Roll High School,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,22,226,35
-6,Parasite,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,93,139,49
-7,Battleship Potemkin,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,36,41,216
-8,The Producers,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,115,76,24
-9,Rabid,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,157,230,188
-10,The Five Obstructions,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,240,250,100
-11,Fitzcarraldo,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,48,22,106
-12,My Best Fiend,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,40,9,125
-13,L'Age d'Or,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,224,89,213
-14,Un Chien Andalou,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,130,134,174
-15,Enigma of Kaspar Hauser,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,61,40,175
-16,Nosferatu,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,233,145,25
-17,The Master,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,154,189,229
-18,Nimic,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,99,77,160
-19,Dottie Gets Spanked,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,52,131,113
-20,Putney Swope,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,245,2,4
-21,Fata Morgana,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,139,241,11
-22,Dementia 13,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,151,166,37
-23,Fast Company,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,234,114,170
-24,Carol,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,58,149,104
-25,I'm Not There,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,166,125,246
-26,Bad Lieutenant: Port of Call New Orleans,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,186,24,161
-27,Le Samourai,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,94,213,154
-28,Kamikaze 1989,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,67,138,103
-29,Cecil B. Demented,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,152,218,127
+2,Shutter Island,Martin Scorsese,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,228,55,224
+3,There Will Be Blood,Paul Thomas Anderson,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,30,86,225
+4,Rent,Chris Columbus,1984,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,56,215,168
+5,Rock n Roll High School,Allan Arkush and Joe Dante,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,22,226,35
+6,Parasite,Bong Joon Ho,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,93,139,49
+7,Battleship Potemkin,Sergei Eisenstein,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,36,41,216
+8,The Producers,Mel Brooks,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,115,76,24
+9,Rabid,David Cronenberg,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,157,230,188
+10,The Five Obstructions,Lars von Trier,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,240,250,100
+11,Fitzcarraldo,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,48,22,106
+12,My Best Fiend,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,40,9,125
+13,L'Age d'Or,Luis Buñuel,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,224,89,213
+14,Un Chien Andalou,Luis Buñuel,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,130,134,174
+15,Enigma of Kaspar Hauser,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,61,40,175
+16,Nosferatu,F.W. Murnau,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,233,145,25
+17,The Master,Paul Thomas Anderson,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,154,189,229
+18,Nimic,Yorgos Lanthimos,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,99,77,160
+19,Dottie Gets Spanked,Todd Haynes,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,52,131,113
+20,Putney Swope,"Robert Downey, Sr.",UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,245,2,4
+21,Fata Morgana,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,139,241,11
+22,Dementia 13,Francis Ford Coppola,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,151,166,37
+23,Fast Company,David Cronenberg,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,234,114,170
+24,Carol,Todd Haynes,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,58,149,104
+25,I'm Not There,Todd Haynes,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,166,125,246
+26,Bad Lieutenant: Port of Call New Orleans,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,186,24,161
+27,Le Samourai,Jean-Pierre Melville,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,94,213,154
+28,Kamikaze 1989,Wolf Gremm,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,67,138,103
+29,Cecil B. Demented,John Waters,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,152,218,127
 30,Ieri Oggi Domani,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,137,88,114
-31,The Maid (2009),UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,114,212,54
-32,Rodin,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,189,210,33
-33,Eiffel,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,2,17,190
-34,Joan of Arc,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,55,182,134
-35,Gainsbourg: A Life,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,183,146,135
-36,Grizzly Man,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,148,239,143
-37,Woyzeck,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,211,98,242
-38,From the Earth to the Moon,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,182,57,194
+31,The Maid (2009),Vittorio De Sica,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,114,212,54
+32,Rodin,Jacques Doillon,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,189,210,33
+33,Eiffel,Martin Bourboulon,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,2,17,190
+34,Joan of Arc,Bruno Dumont,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,55,182,134
+35,Gainsbourg: A Heroic Life,Joann Sfar,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,183,146,135
+36,Grizzly Man,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,148,239,143
+37,Woyzeck,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,211,98,242
+38,From the Earth to the Moon,Byron Haskin,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,182,57,194
 39,Haxan,Benjamin Christensen,1922,105,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,66,7,105
-40,Superstar: The Karen Carpenter Story,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,54,151,47
-41,Poison,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,15,245,197
-42,Monsieur Hulot's Holiday,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,220,240,153
-43,Munchhausen,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,42,47,221
-44,Lynch/Oz,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,150,3,58
-45,Titicut Follies,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,69,205,10
-46,The Bicycle Thief,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,5,52,98
-47,The Baby,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,98,242,195
-48,The Steamroller and the Violin,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,169,227,95
-49,Ivan's Childhood,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,173,96,30
-50,Bad Taste,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,21,59,72
-51,Blood for Dracula,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,205,5,12
-52,Flesh for Frankenstein,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,172,124,238
-53,Star Trek 2: The Wrath of Khan,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,90,243,187
-54,A Cat In Paris,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,146,208,81
-55,The Man Who Killed Don Quixote,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,91,177,236
-56,Delicatessen,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,7,21,204
-57,Cobra Verde,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,47,45,123
-58,Un Flic,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,126,135,56
-59,Stroszek,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,203,171,133
-60,The Rabbi's Cat,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,184,142,133
-61,Heart of Glass,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,101,109,15
-62,Early Short Films of the French New Wave (19),UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,243,163,18
-63,Lessons of Darkness,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,50,58,84
-64,"My Son, My Son, What Have Ye Done",UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,19,67,226
-65,The Wild Blue Yonder,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,176,94,121
-66,Signs of Life,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,9,128,145
-67,Where the Green Ants Dream,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,204,133,2
-68,Little Dieter Needs to Fly,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,109,197,77
-69,Rescue Dawn,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,210,192,36
-70,Kinetta,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,247,51,43
-71,Alps,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,32,8,39
-72,We Are All Going to the World's Fair,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,74,167,201
-73,The Babadook,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,206,87,149
-74,Kinky Boots,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,216,186,38
-75,Titane,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,46,63,64
-76,Crimes of the Future,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,92,112,200
-77,Paint Your Wagon,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,65,136,69
-78,Jacques Brel Is Alive and Well and Living in Paris,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,10,136,17
-79,Betty Boop Confidential,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,198,34,148
-80,God's Angry Man,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,181,78,55
-81,The Great Ecstasy of the Woodcarver Steiner,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,181,72,3
-82,Invincible,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,199,74,129
-83,Herdsmen of the Sun,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,136,199,23
-84,Queen of the Desert,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,177,16,210
-85,Salt and Fire,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,118,99,151
-86,Wings of Hope,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,225,19,118
-87,Wheel of Time,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,96,200,27
-88,"Lo and Behold, Reveries of the Connected World",UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,105,39,184
-89,Ballad of the Little Soldier,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,212,150,232
-90,Encounters at the End of the World,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,120,69,157
-91,The Flying Doctors of East Africa,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,25,193,9
-92,How Much Wood Would a Woodchuck Chuck,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,95,236,146
-93,Handicapped Future,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,241,25,176
-94,Huie's Sermon,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,144,147,91
-95,The Dark Glow of the Mountains,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,41,1,212
-96,Nomad: In the Footsteps of Bruce Chatwin,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,135,50,67
-97,Echoes from a Somber Empire,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,11,202,185
-98,Into the Abyss,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,215,90,156
-99,Jag Mandir,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,145,232,167
-100,The White Diamond,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,1,204,239
-101,Happy People: A Year in the Taiga,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,88,188,211
-102,Bells from the Deep,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,250,113,26
-103,Gesualdo: Death for Five Voices,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,235,172,205
-104,Meeting Gorbachev,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,127,221,80
-105,The Fire Within: Requiem for Katia and Maurice Krafft,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,51,217,136
-106,Werner Herzog Short Films,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,83,155,70
-107,Gates of Heaven,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,156,28,164
-108,"Vernon, Florida",UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,163,100,144
-109,The Thin Blue Line,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,73,60,90
-110,The Fog of War,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,238,10,40
-111,The Killing Fields,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,24,122,140
-112,King Corn,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,197,211,147
-113,Once Upon a Time in America,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,219,185,112
-114,Spring Breakers,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,28,144,162
-115,Red Army,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,113,107,203
-116,Cool World,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,141,159,96
-117,Interstellar,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,190,103,32
-118,Hotel Rwanda,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,64,237,21
-119,Everything Everywhere All At Once,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,179,228,222
-120,Jodorowsky's Dune,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,87,43,159
-121,Plague Dogs,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,53,20,230
-122,True Grit,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,149,65,158
-123,The Wiz,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,104,178,128
-124,Before the Devil Knows You're Dead,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,131,137,6
-125,To Live and Die in LA,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,108,129,41
-126,Bad Lieutenant,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,37,143,155
-127,King of New York,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,4,141,166
-128,New Jack City,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,192,15,83
-129,Welcome to the Dollhouse,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,196,18,29
-130,Menace II Society,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,221,154,14
-131,Friday,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,77,32,76
-132,Frances Ha,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,107,244,202
-133,Killer of Sheep,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,68,161,180
-134,The Hudsucker Proxy,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,239,104,163
-135,Metropolis,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,160,116,250
-136,The Red Shoes,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,44,118,22
-137,Black Narcissus,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,202,92,117
-138,Peeping Tom,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,86,82,177
-139,Shivers,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,31,169,181
-140,Cosmopolis,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,248,37,247
-141,Bonfire of the Vanities,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,33,224,233
-142,The Accidental Tourist,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,72,93,241
-143,Cleo from 5 to 7,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,201,180,235
-144,The Umbrellas of Cherbourg,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,178,127,244
-145,Black Orpheus,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,84,70,124
-146,Orpheus,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,123,203,52
-147,Les Parents Terribles,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,45,234,179
-148,The 400 Blows,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,70,91,152
-149,Jules et Jim,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,16,79,88
-150,Hitchcock/Truffaut,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,214,61,218
-151,Vivre sa Vie,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,232,174,5
-152,Contempt,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,217,140,63
-153,La Chinoise,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,129,35,192
-154,Johnny Guitar,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,71,97,169
-155,Asphalt Jungle,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,81,12,60
-156,Rififi,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,185,223,130
-157,Bob Le Flambeur,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,236,181,20
-158,Le Doulos,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,29,14,208
-159,Jackie Brown,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,175,46,171
-160,Daisies,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,75,195,93
-161,Funeral Parade of Roses,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,110,83,97
-162,The Colour of Pomegranates,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,244,73,245
-163,Latcho Drom,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,79,225,85
-164,Ten Things I Hate About You,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,227,71,196
-165,Clueless,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,27,11,120
-166,Hiroshima Mon Amour,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,128,30,116
-167,Night and Fog,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,57,235,191
-168,Mauvais Sang,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,165,54,217
-169,The Rules of the Game,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,195,44,51
-170,Wings of Desire,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,85,229,165
-171,The Battle of Algiers,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,158,216,89
-172,Bottle Rocket,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,138,156,53
-173,Quadrophenia,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,231,183,219
-174,L'Insoumi,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,208,191,228
-175,Four Adventures of Reinette and Mirabelle,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,142,80,173
-176,The Nun (La Religieuse),UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,111,132,215
-177,Celine and Julie Go Boating,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,125,184,193
-178,Out 1,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,35,158,115
-179,La Belle Noiseuse,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,230,249,137
-180,L'Amour Fou,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,62,75,1
-181,Paris Belongs to Us (Paris Nous Appartient),UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,200,164,61
-182,"Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles",UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,63,126,13
-183,Julien Donkey-Boy,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,60,66,207
-184,The Royal Tenenbaums,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,159,214,46
-185,Desperately Seeking Susan,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,180,170,42
-186,Rushmore,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,161,231,92
-187,The Life Aquatic with Steve Zissou,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,20,130,44
-188,The Darjeeling Limited,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,116,29,109
-189,Une Femme Est Une Femme,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,119,194,249
-190,The Grand Budapest Hotel,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,18,206,141
-191,Fantastic Mr. Fox,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,38,120,79
-192,The Departed,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,249,26,182
-193,Bande a Parte,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,223,179,126
-194,A Married Woman (Godard),UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,134,68,82
-195,Pierrot Le Fou,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,147,62,8
-196,Sous Belle et Tais Toi,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,6,119,34
-197,Moonrise Kingdom,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,76,196,189
-198,Trash Humpers,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,13,175,178
-199,Bluebeard (Chabrol),UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,143,36,78
-200,Kids (Clark),UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,23,117,139
-201,Elevator to the Gallows,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,140,38,138
-202,Masculin Feminin,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,132,162,227
-203,But I'm a Cheerleader,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,226,48,62
-204,King Lear (Godard),UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,34,102,28
-205,Two or Three Things I Know About Her,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,187,168,68
-206,Weekend,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,124,108,16
-207,One Plus One,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,209,198,102
-208,Punch Drunk Love,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,14,173,45
-209,Tout Va Bien,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,246,85,107
-210,British Sound,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,133,160,57
-211,Le Petit Soldat,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,100,42,111
-212,Les Carabiniers,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,222,115,214
-213,The Decline of Western Civilization,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,89,81,59
-214,What We Do Is Secret,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,17,84,87
-215,Made In U.S.A.,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,122,56,142
-216,Antoine et Colette,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,103,187,19
-217,Suburbia (Spheerix),UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,59,121,101
-218,SubUrbia (Linklater),UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,80,105,172
-219,Housebound,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,213,49,206
-220,Les Cousins,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,207,219,199
-221,24 Hour Party People,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,171,157,234
-222,Les Bonnes Femmes,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,174,209,7
-223,God Help the Girl,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,121,207,110
-224,Lola (Demy),UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,106,148,50
-225,Stolen Kisses,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,237,33,150
-226,Bed and Board,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,26,110,122
-227,Arrival,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,191,4,231
-228,The Wolf of Wall Street,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,153,220,86
-229,Love on the Run,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,3,53,73
-230,Boyz n the Hood,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,194,13,108
-231,Boyhood,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,218,246,131
-232,Shoot the Piano Player,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,167,95,48
-233,Pontypool,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,78,153,65
-234,Wittgenstein,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,242,165,119
-235,Stop Making Sense,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,112,222,209
-236,Bent,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,49,106,31
-237,Last Tango in Paris,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,97,238,71
-238,Being Maria,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,168,201,75
-239,Madame Bovary (Chabrol),UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,102,176,66
-240,Day For Night,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,155,190,186
-241,Soapdish,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,43,64,183
-242,Kika,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,188,6,99
-243,Zazie dans le Metro,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,117,233,132
-244,Holy Motors,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,164,111,223
-245,The Tin Drum,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,12,27,237
+40,Superstar: The Karen Carpenter Story,Todd Haynes,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,54,151,47
+41,Poison,Todd Haynes,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,15,245,197
+42,Monsieur Hulot's Holiday,Jacques Tati,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,220,240,153
+43,Munchhausen,Josef von Báky,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,42,47,221
+44,Lynch/Oz,Alexandre O. Philippe,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,150,3,58
+45,Titicut Follies,Frederick Wiseman,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,69,205,10
+46,The Bicycle Thief,Vittorio De Sica,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,5,52,98
+47,The Baby,Ted Post,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,98,242,195
+48,The Steamroller and the Violin,Andrei Tarkovsky,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,169,227,95
+49,Ivan's Childhood,Andrei Tarkovsky,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,173,96,30
+50,Bad Taste,Peter Jackson,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,21,59,72
+51,Blood for Dracula,Paul Morrissey,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,205,5,12
+52,Flesh for Frankenstein,Paul Morrissey,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,172,124,238
+53,Star Trek 2: The Wrath of Khan,Nicholas Meyer,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,90,243,187
+54,A Cat In Paris,Jean-Loup Felicioli,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,146,208,81
+55,The Man Who Killed Don Quixote,Terry Gilliam,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,91,177,236
+56,Delicatessen,Jean-Pierre Jeunet and Marc Caro,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,7,21,204
+57,Cobra Verde,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,47,45,123
+58,Un Flic,Jean-Pierre Melville,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,126,135,56
+59,Stroszek,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,203,171,133
+60,The Rabbi's Cat,Joann Sfar,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,184,142,133
+61,Heart of Glass,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,101,109,15
+62,Early Short Films of the French New Wave (19),various,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,243,163,18
+63,Lessons of Darkness,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,50,58,84
+64,"My Son, My Son, What Have Ye Done",Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,19,67,226
+65,The Wild Blue Yonder,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,176,94,121
+66,Signs of Life,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,9,128,145
+67,Where the Green Ants Dream,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,204,133,2
+68,Little Dieter Needs to Fly,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,109,197,77
+69,Rescue Dawn,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,210,192,36
+70,Kinetta,Yorgos Lanthimos,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,247,51,43
+71,Alps,Yorgos Lanthimos,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,32,8,39
+72,We Are All Going to the World's Fair,Jane Schoenbrun,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,74,167,201
+73,The Babadook,Jennifer Kent,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,206,87,149
+74,Kinky Boots,Julian Jarrold,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,216,186,38
+75,Titane,Julia Ducournau,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,46,63,64
+76,Crimes of the Future,David Cronenberg,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,92,112,200
+77,Paint Your Wagon,Joshua Logan,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,65,136,69
+78,Jacques Brel Is Alive and Well and Living in Paris,Denis Héroux,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,10,136,17
+79,Betty Boop Confidential,various,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,198,34,148
+80,God's Angry Man,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,181,78,55
+81,The Great Ecstasy of the Woodcarver Steiner,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,181,72,3
+82,Invincible,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,199,74,129
+83,Herdsmen of the Sun,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,136,199,23
+84,Queen of the Desert,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,177,16,210
+85,Salt and Fire,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,118,99,151
+86,Wings of Hope,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,225,19,118
+87,Wheel of Time,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,96,200,27
+88,"Lo and Behold, Reveries of the Connected World",Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,105,39,184
+89,Ballad of the Little Soldier,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,212,150,232
+90,Encounters at the End of the World,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,120,69,157
+91,The Flying Doctors of East Africa,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,25,193,9
+92,How Much Wood Would a Woodchuck Chuck,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,95,236,146
+93,Handicapped Future,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,241,25,176
+94,Huie's Sermon,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,144,147,91
+95,The Dark Glow of the Mountains,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,41,1,212
+96,Nomad: In the Footsteps of Bruce Chatwin,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,135,50,67
+97,Echoes from a Somber Empire,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,11,202,185
+98,Into the Abyss,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,215,90,156
+99,Jag Mandir,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,145,232,167
+100,The White Diamond,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,1,204,239
+101,Happy People: A Year in the Taiga,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,88,188,211
+102,Bells from the Deep,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,250,113,26
+103,Gesualdo: Death for Five Voices,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,235,172,205
+104,Meeting Gorbachev,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,127,221,80
+105,The Fire Within: Requiem for Katia and Maurice Krafft,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,51,217,136
+106,Werner Herzog Short Films,Werner Herzog,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,83,155,70
+107,Gates of Heaven,Errol Morris,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,156,28,164
+108,"Vernon, Florida",Errol Morris,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,163,100,144
+109,The Thin Blue Line,Errol Morris,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,73,60,90
+110,The Fog of War,Errol Morris,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,238,10,40
+111,The Killing Fields,Roland Joffé,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,24,122,140
+112,King Corn,Aaron Woolf,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,197,211,147
+113,Once Upon a Time in America,Sergio Leone,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,219,185,112
+114,Spring Breakers,Harmony Korine,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,28,144,162
+115,Red Army,Gabe Polsky,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,113,107,203
+116,Cool World,Ralph Bakshi,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,141,159,96
+117,Interstellar,Christopher Nolan,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,190,103,32
+118,Hotel Rwanda,Terry George,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,64,237,21
+119,Everything Everywhere All At Once,Daniel Scheinert and Daniel Kwan,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,179,228,222
+120,Jodorowsky's Dune,Frank Pavich,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,87,43,159
+121,Plague Dogs,Martin Rosen,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,53,20,230
+122,True Grit,Ethan Coen and Joel Coen,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,149,65,158
+123,The Wiz,Sidney Lumet,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,104,178,128
+124,Before the Devil Knows You're Dead,Sidney Lumet,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,131,137,6
+125,To Live and Die in LA,William Friedkin,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,108,129,41
+126,Bad Lieutenant,Abel Ferrara,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,37,143,155
+127,King of New York,Abel Ferrara,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,4,141,166
+128,New Jack City,Mario Van Peebles,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,192,15,83
+129,Welcome to the Dollhouse,Todd Solondz,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,196,18,29
+130,Menace II Society,Allen Hughes and Albert Hughes,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,221,154,14
+131,Friday,F. Gary Gray,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,77,32,76
+132,Frances Ha,Noah Baumbach,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,107,244,202
+133,Killer of Sheep,Charles Burnett,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,68,161,180
+134,The Hudsucker Proxy,Joel Coen,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,239,104,163
+135,Metropolis,Fritz Lang,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,160,116,250
+136,The Red Shoes,Emeric Pressburger and Michael Powell,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,44,118,22
+137,Black Narcissus,Emeric Pressburger and Michael Powell,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,202,92,117
+138,Peeping Tom,Michael Powell,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,86,82,177
+139,Shivers,David Cronenberg,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,31,169,181
+140,Cosmopolis,David Cronenberg,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,248,37,247
+141,Bonfire of the Vanities,Brian De Palma,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,33,224,233
+142,The Accidental Tourist,Lawrence Kasdan,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,72,93,241
+143,Cleo from 5 to 7,Agnès Varda,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,201,180,235
+144,The Umbrellas of Cherbourg,Jacques Demy,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,178,127,244
+145,Black Orpheus,Marcel Camus,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,84,70,124
+146,Orpheus,Jean Cocteau,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,123,203,52
+147,Les Parents Terribles,Jean Cocteau,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,45,234,179
+148,The 400 Blows,François Truffaut,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,70,91,152
+149,Jules et Jim,François Truffaut,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,16,79,88
+150,Hitchcock/Truffaut,Kent Jones,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,214,61,218
+151,Vivre sa Vie,Jean-Luc Godard,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,232,174,5
+152,Contempt,Jean-Luc Godard,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,217,140,63
+153,La Chinoise,Jean-Luc Godard,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,129,35,192
+154,Johnny Guitar,Nicholas Ray,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,71,97,169
+155,Asphalt Jungle,John Huston,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,81,12,60
+156,Rififi,Jules Dassin,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,185,223,130
+157,Bob Le Flambeur,Jean-Pierre Melville,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,236,181,20
+158,Le Doulos,Jean-Pierre Melville,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,29,14,208
+159,Jackie Brown,Quentin Tarantino,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,175,46,171
+160,Daisies,Věra Chytilová,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,75,195,93
+161,Funeral Parade of Roses,Toshio Matsumoto,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,110,83,97
+162,The Color of Pomegranates,Sergei Parajanov,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,244,73,245
+163,Latcho Drom,Tony Gatlif,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,79,225,85
+164,Ten Things I Hate About You,Gil Junger,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,227,71,196
+165,Clueless,Amy Heckerling,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,27,11,120
+166,Hiroshima Mon Amour,Alain Resnais,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,128,30,116
+167,Night and Fog,Alain Resnais,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,57,235,191
+168,Mauvais Sang,Leos Carax,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,165,54,217
+169,The Rules of the Game,Jean Renoir,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,195,44,51
+170,Wings of Desire,Wim Wenders,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,85,229,165
+171,The Battle of Algiers,Gillo Pontecorvo,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,158,216,89
+172,Bottle Rocket,Wes Anderson,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,138,156,53
+173,Quadrophenia,Franc Roddam,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,231,183,219
+174,L'Insoumi,Alain Cavalier,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,208,191,228
+175,Four Adventures of Reinette and Mirabelle,Éric Rohmer,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,142,80,173
+176,The Nun (La Religieuse),Jacques Rivette,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,111,132,215
+177,Celine and Julie Go Boating,Jacques Rivette,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,125,184,193
+178,Out 1,Jacques Rivette,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,35,158,115
+179,La Belle Noiseuse,Jacques Rivette,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,230,249,137
+180,L'Amour Fou,Jacques Rivette,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,62,75,1
+181,Paris Belongs to Us (Paris Nous Appartient),Jacques Rivette,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,200,164,61
+182,"Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles",Chantal Akerman,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,63,126,13
+183,Julien Donkey-Boy,Harmony Korine,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,60,66,207
+184,The Royal Tenenbaums,Wes Anderson,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,159,214,46
+185,Desperately Seeking Susan,Susan Seidelman,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,180,170,42
+186,Rushmore,Wes Anderson,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,161,231,92
+187,The Life Aquatic with Steve Zissou,Wes Anderson,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,20,130,44
+188,The Darjeeling Limited,Wes Anderson,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,116,29,109
+189,Une Femme Est Une Femme,Jean-Luc Godard,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,119,194,249
+190,The Grand Budapest Hotel,Wes Anderson,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,18,206,141
+191,Fantastic Mr. Fox,Wes Anderson,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,38,120,79
+192,The Departed,Martin Scorsese,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,249,26,182
+193,Bande a Parte,Jean-Luc Godard,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,223,179,126
+194,A Married Woman,Jean-Luc Godard,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,134,68,82
+195,Pierrot Le Fou,Jean-Luc Godard,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,147,62,8
+196,Sous Belle et Tais Toi,Delphine Seyrig,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,6,119,34
+197,Moonrise Kingdom,Wes Anderson,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,76,196,189
+198,Trash Humpers,Harmony Korine,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,13,175,178
+199,Bluebeard (Chabrol),Claude Chabrol,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,143,36,78
+200,Kids,Larry Clark,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,23,117,139
+201,Elevator to the Gallows,Louis Malle,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,140,38,138
+202,Masculin Feminin,Jean-Luc Godard,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,132,162,227
+203,But I'm a Cheerleader,Jamie Babbit,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,226,48,62
+204,King Lear,Jean-Luc Godard,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,34,102,28
+205,Two or Three Things I Know About Her,Jean-Luc Godard,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,187,168,68
+206,Weekend,Jean-Luc Godard,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,124,108,16
+207,One Plus One,Jean-Luc Godard,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,209,198,102
+208,Punch Drunk Love,Paul Thomas Anderson,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,14,173,45
+209,Tout Va Bien,Jean-Luc Godard,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,246,85,107
+210,British Sound,Jean-Luc Godard,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,133,160,57
+211,Le Petit Soldat,Jean-Luc Godard,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,100,42,111
+212,Les Carabiniers,Jean-Luc Godard,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,222,115,214
+213,The Decline of Western Civilization,Penelope Spheeris,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,89,81,59
+214,What We Do Is Secret,Rodger Grossman,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,17,84,87
+215,Made In U.S.A.,Jean-Luc Godard,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,122,56,142
+216,Antoine et Colette,François Truffaut,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,103,187,19
+217,Suburbia,Penelope Spheeris,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,59,121,101
+218,Suburbia,Richard Linklater,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,80,105,172
+219,Housebound,Gerard Johnstone,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,213,49,206
+220,Les Cousins,Claude Chabrol,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,207,219,199
+221,24 Hour Party People,Michael Winterbottom,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,171,157,234
+222,Les Bonnes Femmes,Claude Chabrol,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,174,209,7
+223,God Help the Girl,Stuart Murdoch,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,121,207,110
+224,Lola,Jacques Demy,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,106,148,50
+225,Stolen Kisses,François Truffaut,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,237,33,150
+226,Bed and Board,François Truffaut,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,26,110,122
+227,Arrival,Denis Villeneuve,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,191,4,231
+228,The Wolf of Wall Street,Martin Scorsese,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,153,220,86
+229,Love on the Run,François Truffaut,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,3,53,73
+230,Boyz n the Hood,John Singleton,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,194,13,108
+231,Boyhood,Richard Linklater,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,218,246,131
+232,Shoot the Piano Player,François Truffaut,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,167,95,48
+233,Pontypool,Bruce McDonald,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,78,153,65
+234,Wittgenstein,Tariq Ali,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,242,165,119
+235,Stop Making Sense,Jonathan Demme,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,112,222,209
+236,Bent,Sean Mathias,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,49,106,31
+237,Last Tango in Paris,Bernardo Bertolucci,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,97,238,71
+238,Being Maria,Jessica Palud,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,168,201,75
+239,Madame Bovary,Claude Chabrol,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,102,176,66
+240,Day For Night,François Truffaut,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,155,190,186
+241,Soapdish,Michael Hoffman,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,43,64,183
+242,Kika,Pedro Almodóvar,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,188,6,99
+243,Zazie dans le Metro,Louis Malle,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,117,233,132
+244,Holy Motors,Leos Carax,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,164,111,223
+245,The Tin Drum,Volker Schlöndorff,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,12,27,237
 246,Women on the Verge of a Nervous Breakdown,Pedro Almodóvar,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,229,23,240
 247,Tie Me Up Tie Me Down,Pedro Almodóvar,1989,101,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,170,31,243
 248,What Have I Done To Deserve This,Pedro Almodóvar,1984,101,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,193,101,94
 249,"Pepi, Luci, Bom",Pedro Almodóvar,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,82,248,74
-250,Beware of a Holy Whore,UNKNOWN,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,162,152,198
+250,Beware of a Holy Whore,Rainer Werner Fassbinder,UNKNOWN,UNKNOWN,This is text.,Time to choose something different:,Option 1,Option 2,Option 3,162,152,198
