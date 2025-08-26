@@ -122,7 +122,7 @@ def make_template(this_section_number,film_title,film_director,film_year,film_ru
   option_text_3 = option_text_3
   section_number_3 = section_number_3
   padded_section_number_3 = padnumber(section_number_3)
-  with open(padded_this_section_number + '.txt', 'w') as f:
+  with open('cyof_files/' + padded_this_section_number + '.html', 'w') as f:
     print('<TITLE>',file=f)
     print('  Section ' + str(this_section_number) + ' - ' + str(film_title),file=f)
     print('</TITLE>',file=f)
@@ -176,4 +176,4 @@ for index,row in df.iterrows():
 #  print(section_number_2)
 #  print(option_text_3)
 #  print(section_number_3)
-make_template(this_section_number,film_title,film_director,film_year,film_running_time,text_section,choose_section,option_text_1,section_number_1,option_text_2,section_number_2,option_text_3,section_number_3)
+  make_template(this_section_number,film_title,film_director,film_year,film_running_time,text_section,choose_section,option_text_1,section_number_1,option_text_2,section_number_2,option_text_3,section_number_3)
