@@ -1,4 +1,4 @@
-import csv
+import pandas as pd
 
 def padnumber(x):
   if isinstance(x,int):
@@ -13,6 +13,8 @@ def padnumber(x):
   else:
     padded_version = str(x)
   return padded_version
+
+df = pd.read_csv('sample_list.csv')
 
 this_section_number = '1'
 padded_this_section_number = padnumber(this_section_number)
