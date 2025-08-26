@@ -1,5 +1,11 @@
 import pandas as pd
 
+
+#with open('out.txt', 'w') as f:
+#  print(mylist, file=f)
+
+
+
 def padnumber(x):
   if isinstance(x,int):
     if x >= 0 and x <= 9:
@@ -97,6 +103,8 @@ padded_section_number_3 = padnumber(section_number_3)
 #padded_section_number_3 = padnumber(section_number_3)
 
 def make_template(this_section_number,film_title,film_director,film_year,film_running_time,text_section,choose_section,option_text_1,section_number_1,option_text_2,section_number_2,option_text_3,section_number_3):
+#  with open('out.txt', 'w') as f:
+#    print(mylist, file=f)
   this_section_number = this_section_number
   padded_this_section_number = padnumber(this_section_number)
   film_title = film_title
@@ -114,27 +122,28 @@ def make_template(this_section_number,film_title,film_director,film_year,film_ru
   option_text_3 = option_text_3
   section_number_3 = section_number_3
   padded_section_number_3 = padnumber(section_number_3)
-  print('<TITLE>')
-  print('  Section ' + str(this_section_number) + ' - ' + str(film_title))
-  print('</TITLE>')
-  print('')
-  print('<h2>' + str(film_title) + '</h2>')
-  print('<P>')
-  print('<I>' + str(film_director) + '</I>')
-  print('<P>')
-  print('<I>' + str(film_year) + '</I>')
-  print('<P>')
-  print('<I>' + str(film_running_time) + ' minutes</I>')
-  print('<P>')
-  print(str(text_section))
-  print('<P>')
-  print('<I>' + str(choose_section) + '</I>')
-  print('<P>')
-  print('<UL>')
-  print('  <LI><I>' + str(option_text_1) + '</I> - <A HREF="' + str(padded_section_number_1) + '.html">Turn to section ' + str(section_number_1) + '</A>')
-  print('  <LI><I>' + str(option_text_2) + '</I> - <A HREF="' + str(padded_section_number_2) + '.html">Turn to section ' + str(section_number_2) + '</A>')
-  print('  <LI><I>' + str(option_text_3) + '</I> - <A HREF="' + str(padded_section_number_3) + '.html">Turn to section ' + str(section_number_3) + '</A>')
-  print('</UL>')
+  with open(padded_this_section_number + '.txt', 'w') as f:
+    print('<TITLE>',file=f)
+    print('  Section ' + str(this_section_number) + ' - ' + str(film_title),file=f)
+    print('</TITLE>',file=f)
+    print('',file=f)
+    print('<h2>' + str(film_title) + '</h2>',file=f)
+    print('<P>',file=f)
+    print('<I>' + str(film_director) + '</I>',file=f)
+    print('<P>',file=f)
+    print('<I>' + str(film_year) + '</I>',file=f)
+    print('<P>',file=f)
+    print('<I>' + str(film_running_time) + ' minutes</I>',file=f)
+    print('<P>',file=f)
+    print(str(text_section),file=f)
+    print('<P>',file=f)
+    print('<I>' + str(choose_section) + '</I>',file=f)
+    print('<P>',file=f)
+    print('<UL>',file=f)
+    print('  <LI><I>' + str(option_text_1) + '</I> - <A HREF="' + str(padded_section_number_1) + '.html">Turn to section ' + str(section_number_1) + '</A>',file=f)
+    print('  <LI><I>' + str(option_text_2) + '</I> - <A HREF="' + str(padded_section_number_2) + '.html">Turn to section ' + str(section_number_2) + '</A>',file=f)
+    print('  <LI><I>' + str(option_text_3) + '</I> - <A HREF="' + str(padded_section_number_3) + '.html">Turn to section ' + str(section_number_3) + '</A>',file=f)
+    print('</UL>',file=f)
 
 #make_template(this_section_number,film_title,film_director,film_year,film_running_time,text_section,choose_section,option_text_1,section_number_1,option_text_2,section_number_2,option_text_3,section_number_3)
 
