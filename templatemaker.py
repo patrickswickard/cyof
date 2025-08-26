@@ -96,6 +96,7 @@ padded_section_number_3 = padnumber(section_number_3)
 
 def make_template(this_section_number,film_title,film_director,film_year,film_running_time,text_section,choose_section,option_text_1,section_number_1,option_text_2,section_number_2,option_text_3,section_number_3):
   this_section_number = this_section_number
+  padded_this_section_number = padnumber(this_section_number)
   film_title = film_title
   film_director = film_director
   film_year = film_year
