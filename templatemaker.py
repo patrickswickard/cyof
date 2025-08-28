@@ -136,6 +136,9 @@ def make_template(this_section_number,film_title,film_director,film_year,film_ru
     print('<P>',file=f)
     print('<I>' + str(film_running_time) + ' minutes</I>',file=f)
     print('<P>',file=f)
+    if not wiki_link == 'NONE':
+      print('<A HREF="' + wiki_link + '"><I>wikipedia link</I></a>',file=f)
+      print('<P>',file=f)
     print(str(text_section),file=f)
     print('<P>',file=f)
     print('<I>' + str(choose_section) + '</I>',file=f)
