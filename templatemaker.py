@@ -102,7 +102,7 @@ padded_section_number_3 = padnumber(section_number_3)
 #padded_section_number_2 = padnumber(section_number_2)
 #padded_section_number_3 = padnumber(section_number_3)
 
-def make_template(this_section_number,film_title,film_director,film_year,film_running_time,text_section,choose_section,option_text_1,section_number_1,option_text_2,section_number_2,option_text_3,section_number_3,wiki_link):
+def make_template(this_section_number,film_title,film_director,film_year,film_running_time,text_section,choose_section,option_text_1,section_number_1,option_text_2,section_number_2,option_text_3,section_number_3,wiki_link,imdb_link):
 #  with open('out.txt', 'w') as f:
 #    print(mylist, file=f)
   this_section_number = this_section_number
@@ -123,12 +123,15 @@ def make_template(this_section_number,film_title,film_director,film_year,film_ru
   section_number_3 = section_number_3
   padded_section_number_3 = padnumber(section_number_3)
   wiki_link = wiki_link
+  imdb_link = imdb_link
   with open('cyof_files/' + padded_this_section_number + '.html', 'w') as f:
     print('<TITLE>',file=f)
     print('  Section ' + str(this_section_number) + ' - ' + str(film_title),file=f)
     print('</TITLE>',file=f)
     print('',file=f)
     print('<h2>' + str(film_title) + '</h2>',file=f)
+    print('<P>',file=f)
+    print('<img style="max-width:100%;height:auto;" src="img/' + padded_this_section_number + '.jpg">',file=f)
     print('<P>',file=f)
     print('<I>' + str(film_director) + '</I>',file=f)
     print('<P>',file=f)
@@ -138,6 +141,9 @@ def make_template(this_section_number,film_title,film_director,film_year,film_ru
     print('<P>',file=f)
     if not wiki_link == 'NONE':
       print('<A HREF="' + wiki_link + '"><I>wikipedia link</I></a>',file=f)
+      print('<P>',file=f)
+    if not imdb_link == 'NONE':
+      print('<A HREF="' + imdb_link + '"><I>IMDB link</I></a>',file=f)
       print('<P>',file=f)
     print(str(text_section),file=f)
     print('<P>',file=f)
@@ -168,6 +174,7 @@ for index,row in df.iterrows():
   option_text_3 = row['option_text_3']
   section_number_3 = row['section_number_3']
   wiki_link = row['wiki_link']
+  imdb_link = row['imdb_link']
 #  print(this_section_number)
 #  print(film_title)
 #  print(film_director)
@@ -181,4 +188,4 @@ for index,row in df.iterrows():
 #  print(section_number_2)
 #  print(option_text_3)
 #  print(section_number_3)
-  make_template(this_section_number,film_title,film_director,film_year,film_running_time,text_section,choose_section,option_text_1,section_number_1,option_text_2,section_number_2,option_text_3,section_number_3,wiki_link)
+  make_template(this_section_number,film_title,film_director,film_year,film_running_time,text_section,choose_section,option_text_1,section_number_1,option_text_2,section_number_2,option_text_3,section_number_3,wiki_link,imdb_link)
