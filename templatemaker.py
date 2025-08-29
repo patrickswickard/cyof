@@ -140,10 +140,13 @@ def make_template(this_section_number,film_title,film_director,film_year,film_ru
     print('<I>' + str(film_running_time) + ' minutes</I>',file=f)
     print('<P>',file=f)
     if not wiki_link == 'NONE':
-      print('<A HREF="' + wiki_link + '"><I>wikipedia link</I></a>',file=f)
+      print('<A HREF="' + wiki_link + '"><I>Wikipedia link</I></a>',file=f)
       print('<P>',file=f)
     if not imdb_link == 'NONE':
       print('<A HREF="' + imdb_link + '"><I>IMDB link</I></a>',file=f)
+      print('<P>',file=f)
+    if not tvtropes_link == 'NONE':
+      print('<A HREF="' + wiki_link + '"><I>TV Tropes link</I></a>',file=f)
       print('<P>',file=f)
     print(str(text_section),file=f)
     print('<P>',file=f)
