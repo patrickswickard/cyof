@@ -15,7 +15,7 @@ Shutter Island
 *****************************
 003
 There Will Be Blood
-(030_Ieri Oggi Domani) | Not nearly as much blood as promised. Can we get an actual grizzly bear attack or something? 
+(030_Ieri Oggi Domani) | Wow, not a lot of women in that film. Got anything with Sophia Loren in it to clear the palate?
 (086_Wings of Hope) | Too dry and dusty for me. Got anything in a damper setting?
 (225_Stolen Kisses) | I wish I were drinking a milkshake in Paris right now...
 *****************************
@@ -29,15 +29,15 @@ Rent
 *****************************
 005
 Rock n Roll High School
-(022_Dementia 13) | It seems to me that life is an illusion and the Ramones themselves are but a mirage. Let's contemplate this a bit...
+(022_Dementia 13) | Got anything else produced by Roger Corman? He seems to pick winners!
 (226_Bed and Board) | If Mama Ramone gave birth to another one, what should she name him? Is Alphonse too provincial? Should she call him Ghislain instead? Let's reason this out.
 (035_Gainsbourg: A Heroic Life) | A Heroic Life) There's no way some dudes as funny looking as the Ramones would have gorgeous women swooning over them in real life, right? Right?
 *****************************
 *****************************
 006
 Parasite
-(093_Handicapped Future) | Bet they could cut down on that 132 minute runtime if everyone talked a bit faster...
-(139_Shivers) | Pretty creepy thing about other people living in the same place you do possibly spying on you...show me more!
+(093_Handicapped Future) | 
+(139_Shivers) | Not bad, but got anything with actual parasites in it?
 (049_Ivan's Childhood) | That kid was pretty stealthy! Bet his skills could have been applied pretty well in wartime...
 *****************************
 *****************************
@@ -59,21 +59,21 @@ The Producers
 Rabid
 (157_Bob Le Flambeur) | 
 (230_Boyz n the Hood) | 
-(188_The Darjeeling Limited) | 
+(188_The Darjeeling Limited) | Wow, it's interesting how much a motorcycle accident can really mess someone up...
 *****************************
 *****************************
 010
 The Five Obstructions
-(240_Day For Night) | 
-(250_Beware of a Holy Whore) | 
-(100_The White Diamond) | 
+(240_Day For Night) | Making a film is probably easy if no one is deliberately trying to make it tricky for you, right?
+(250_Beware of a Holy Whore) | ...And it's nice to see how calm and collected filmmakers can be in the face of hardship!
+(100_The White Diamond) | I suppose it's easier making a film than a blimp! 
 *****************************
 *****************************
 011
 Fitzcarraldo
 (048_The Steamroller and the Violin) | 
 (022_Dementia 13) | 
-(106_Werner Herzog Short Films) | 
+(106_Werner Herzog Short Films) | That was good but kind of long. Got anything by the same director, but maybe shorter?
 *****************************
 *****************************
 012
@@ -107,7 +107,7 @@ Enigma of Kaspar Hauser
 016
 Nosferatu the Vampyre
 (233_Pontypool) | 
-(145_Black Orpheus) | 
+(145_Black Orpheus) | The count was looking pretty pale and sickly. I bet a trip to Rio would do him some good!
 (025_I'm Not There) | 
 *****************************
 *****************************
@@ -143,14 +143,14 @@ Putney Swope
 Fata Morgana
 (139_Shivers) | 
 (241_Soapdish) | 
-(011_Fitzcarraldo) | 
+(011_Fitzcarraldo) | A bit dry for me. Got anything in a damper setting?
 *****************************
 *****************************
 022
 Dementia 13
 (151_Vivre sa Vie) | 
 (166_Hiroshima Mon Amour) | 
-(037_Woyzeck) | 
+(037_Woyzeck) | Poor Billy never had a chance. I bet joining the army and some dietary changes would have cured what ailed him!
 *****************************
 *****************************
 023
@@ -163,7 +163,7 @@ Fast Company
 024
 Carol
 (058_Un Flic) | 
-(149_Jules et Jim) | 
+(149_Jules et Jim) | Poor Carol. That was a hard era. I bet finding a good man (or two) would have made things easier on her!
 (104_Meeting Gorbachev) | 
 *****************************
 *****************************
@@ -206,13 +206,13 @@ Cecil B. Demented
 Ieri Oggi Domani
 (137_Black Narcissus) | 
 (088_Lo and Behold, Reveries of the Connected World) | 
-(114_Spring Breakers) | 
+(114_Spring Breakers) |
 *****************************
 *****************************
 031
 The Maid (2009)
-(114_Spring Breakers) | 
-(212_Les Carabiniers) | 
+(114_Spring Breakers) | Sometimes getting away for a bit on holiday is all it takes to change your life!
+(212_Les Carabiniers) | Barring that, you could just stay home and look at postcards...
 (054_A Cat In Paris) | 
 *****************************
 *****************************
@@ -225,7 +225,7 @@ Rodin
 *****************************
 033
 Eiffel
-(002_Shutter Island) | 
+(002_Shutter Island) | Sure, towers next to rivers are cool. But lighthouses next to the ocean are even cooler!
 (017_The Master) | 
 (190_The Grand Budapest Hotel) | 
 *****************************
@@ -253,7 +253,7 @@ Grizzly Man
 *****************************
 037
 Woyzeck
-(211_Le Petit Soldat) | 
+(211_Le Petit Soldat) | Well, when the army sucks, maybe deserting is a better option. 
 (098_Into the Abyss) | 
 (242_Kika) | 
 *****************************
@@ -302,8 +302,8 @@ Munchhausen
 *****************************
 044
 Lynch/Oz
-(150_Hitchcock/Truffaut) | 
-(003_There Will Be Blood) | 
+(150_Hitchcock/Truffaut) | I love the slash in the title! Show me more!
+(003_There Will Be Blood) | Oz is boring. Let's go bowling!
 (058_Un Flic) | 
 *****************************
 *****************************
@@ -316,7 +316,7 @@ Titicut Follies
 *****************************
 046
 The Bicycle Thief
-(005_Rock n Roll High School) | 
+(005_Rock n Roll High School) | This film taught me that stealing bicycles is rad! Show me some more fun activities for juvenile delinquents!
 (052_Flesh for Frankenstein) | 
 (098_Into the Abyss) | 
 *****************************
@@ -358,9 +358,9 @@ Blood for Dracula
 *****************************
 052
 Flesh for Frankenstein
-(172_Bottle Rocket) | 
-(124_Before the Devil Knows You're Dead) | 
-(238_Being Maria) | 
+(172_Bottle Rocket) | Baron von Frankenstein had some pretty ambitious ideas. I love a man with a plan!
+(124_Before the Devil Knows You're Dead) | It's always a good idea to keep it in the family I guess...
+(238_Being Maria) | That Igor scene was pretty traumatic. If you got anything else like that to sit through, let's just get it out of the way now.
 *****************************
 *****************************
 053
@@ -386,7 +386,7 @@ The Man Who Killed Don Quixote
 *****************************
 056
 Delicatessen
-(007_Battleship Potemkin) | 
+(007_Battleship Potemkin) | That meat looked really unappetizing. I'd mutiny if someone tried to feed me that stuff...
 (021_Fata Morgana) | 
 (204_King Lear) | 
 *****************************
@@ -400,7 +400,7 @@ Cobra Verde
 *****************************
 058
 Un Flic
-(126_Bad Lieutenant) | 
+(126_Bad Lieutenant) | That cop could have been worse I guess...
 (135_Metropolis) | 
 (056_Delicatessen) | 
 *****************************
@@ -442,8 +442,8 @@ Lessons of Darkness
 *****************************
 064
 My Son, My Son, What Have Ye Done
-(019_Dottie Gets Spanked) | 
-(067_Where the Green Ants Dream) | 
+(019_Dottie Gets Spanked) | Maybe Greek tragedies are a bit much for young people to watch in their formative years. At most they should be watching spicy episodes of "I Love Lucy"...
+(067_Where the Green Ants Dream) | Forget the pizza. He should have asked for a plane.
 (226_Bed and Board) | 
 *****************************
 *****************************
@@ -471,7 +471,7 @@ Where the Green Ants Dream
 068
 Little Dieter Needs to Fly
 (109_The Thin Blue Line) | 
-(197_Moonrise Kingdom) | 
+(197_Moonrise Kingdom) | Whether it's a prison camp or a boy scout camp, sometimes you just need to get away...
 (077_Paint Your Wagon) | 
 *****************************
 *****************************
@@ -513,7 +513,7 @@ The Babadook
 074
 Kinky Boots
 (216_Antoine et Colette) | 
-(186_Rushmore) | 
+(186_Rushmore) | You know what pairs well with red boots? A red beret!
 (038_A Trip to the Moon) | 
 *****************************
 *****************************
@@ -527,7 +527,7 @@ Titane
 076
 Crimes of the Future
 (092_How Much Wood Would a Woodchuck Chuck) | 
-(112_King Corn) | 
+(112_King Corn) | I've hard that high fructose corn syrup does wonders for digestion!
 (200_Kids) | 
 *****************************
 *****************************
@@ -576,7 +576,7 @@ Invincible
 083
 Herdsmen of the Sun
 (136_The Red Shoes) | 
-(199_Bluebeard (Chabrol)) | 
+(199_Bluebeard (Chabrol)) | What have we learned here? It can be fun AND profitable if you're a hit with the ladies!
 (023_Fast Company) | 
 *****************************
 *****************************
@@ -617,14 +617,14 @@ Lo and Behold, Reveries of the Connected World
 *****************************
 089
 Ballad of the Little Soldier
-(212_Les Carabiniers) | 
+(212_Les Carabiniers) | Those kids were pretty young, but the Army can be a pretty grand adventure if you're old enough to enjoy it and bring back souvenirs!
 (150_Hitchcock/Truffaut) | 
 (232_Shoot the Piano Player) | 
 *****************************
 *****************************
 090
 Encounters at the End of the World
-(120_Jodorowsky's Dune) | 
+(120_Jodorowsky's Dune) | Antarctica would be even cooler with sand-worms...
 (069_Rescue Dawn) | 
 (157_Bob Le Flambeur) | 
 *****************************
@@ -653,7 +653,7 @@ Handicapped Future
 094
 Huie's Sermon
 (144_The Umbrellas of Cherbourg) | 
-(147_Les Parents Terribles) | 
+(147_Les Parents Terribles) | I bet Huie would have plenty to say about bad parenting...
 (091_The Flying Doctors of East Africa) | 
 *****************************
 *****************************
