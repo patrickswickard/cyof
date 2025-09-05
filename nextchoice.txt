@@ -261,7 +261,7 @@ Woyzeck
 038
 A Trip to the Moon
 (182_Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles) | I'm more of a homebody, myself, aside from occasionally running short errands. And I work from home... 
-(057_Cobra Verde) | Why be a visitor to the moon when you can go to Africa and try to be a king?
+(057_Cobra Verde) | Why be a visitor to the moon when you can go to Africa and overthrow a king?
 (194_A Married Woman) | Flying around in planes and rockets is nice, but don't neglect your wife!
 *****************************
 *****************************
@@ -379,9 +379,9 @@ A Cat In Paris
 *****************************
 055
 The Man Who Killed Don Quixote
-(091_The Flying Doctors of East Africa) | 
-(177_Celine and Julie Go Boating) | 
-(236_Bent) | 
+(091_The Flying Doctors of East Africa) | Enough of Spain. Let's check in on Kenya and Tanzania!
+(177_Celine and Julie Go Boating) | Cervantes is cool, but I'm a bigger fan of Lewis Carroll. Let's go down the rabbit hole...and maybe to a haunted house!
+(236_Bent) | Okay, here's a niche request. Got any movies where I can watch two guys move a bunch of rocks around?
 *****************************
 *****************************
 056
@@ -408,8 +408,8 @@ Un Flic
 059
 Stroszek
 (203_But I'm a Cheerleader) | 
-(171_The Battle of Algiers) | 
-(133_Killer of Sheep) | 
+(171_The Battle of Algiers) | Maybe Bruno would have fared better in the Foreign Legion.
+(133_Killer of Sheep) | Why rob a grocery store when you can get a good honest job in a slaughterhouse?
 *****************************
 *****************************
 060
@@ -750,7 +750,7 @@ Gates of Heaven
 *****************************
 108
 Vernon, Florida
-(163_Latcho Drom) | 
+(163_Latcho Drom) | Seeing all the turkeys makes me want to see something at least partially set in Turkey!
 (100_The White Diamond) | 
 (144_The Umbrellas of Cherbourg) | 
 *****************************
@@ -771,9 +771,9 @@ The Fog of War: Eleven Lessons from the Life of Robert S. Macnamara
 *****************************
 111
 The Killing Fields
-(024_Carol) | 
-(122_True Grit) | 
-(140_Cosmopolis) | 
+(024_Carol) | Yeah, I'm going to need a chick flick after this one.
+(122_True Grit) | I'd love to see a sequel where Dith Pran teams up with some crusty old lawman to bring Pol Pot to the Hague, dead or alive!
+(140_Cosmopolis) | Pol Pot sucked, but let's check in on some of the rich elitist pricks that inspired his campaign of terror.
 *****************************
 *****************************
 112
@@ -827,7 +827,7 @@ Hotel Rwanda
 *****************************
 119
 Everything Everywhere All At Once
-(179_La Belle Noiseuse) | 
+(179_La Belle Noiseuse) | As the name suggests, that was pretty loud and chaotic. Bob Ross is a bit more my speed...
 (228_The Wolf of Wall Street) | What have we learned? Always be honest with your financial paperwork. White collar crime can get you into trouble!
 (222_Les Bonnes Femmes) | 
 *****************************
@@ -836,14 +836,14 @@ Everything Everywhere All At Once
 Jodorowsky's Dune
 (087_Wheel of Time) | 
 (043_Munchhausen) | Jodorowsky could probably do a pretty good job telling something a little more focused than Dune, like the adventures of Baron Munchhausen!
-(159_Jackie Brown) | 
+(159_Jackie Brown) | On the other hand, I really do NOT want to see Jodorowsky adapting anything by Elmore Leonard!
 *****************************
 *****************************
 121
 Plague Dogs
-(053_Star Trek 2: The Wrath of Khan) | 
-(020_Putney Swope) | 
-(230_Boyz n the Hood) | 
+(053_Star Trek 2: The Wrath of Khan) | Those poor pooches were facing a pretty hopeless situation. Kinda reminds me of the whole Kobayashi Maru thing from a certain sci-fi series from the 1960s...
+(020_Putney Swope) | I bet a clever advertiser could figure out some brilliant way to use experimental test animals to sell acne medicine
+(230_Boyz n the Hood) | It's a rough world for a dog. Having a good human companion is almost as important as it is for a boy to have a good father figure...
 *****************************
 *****************************
 122
@@ -855,9 +855,9 @@ True Grit
 *****************************
 123
 The Wiz
-(104_Meeting Gorbachev) | 
-(178_Out 1) | 
-(128_New Jack City) | 
+(104_Meeting Gorbachev) | We're off to meet the wizard, the wonderful wizard of the Kremlin!
+(178_Out 1) | I wonder what the rehearsals looked like when The Wiz was still in development before it hit the stage...
+(128_New Jack City) | It's good to be The Wiz, but everybody's gunning for you, especially when there's a poppy epidemic...
 *****************************
 *****************************
 124
@@ -884,41 +884,41 @@ Bad Lieutenant
 127
 King of New York
 (004_Rent) | The best thing about being King of New York is not having to pay rent!
-(141_Bonfire of the Vanities) | 
-(166_Hiroshima Mon Amour) | 
+(141_Bonfire of the Vanities) | Frank may have been a drug kingpin, but at least he wasn't a slimy backstabbing yuppie!
+(166_Hiroshima Mon Amour) | I'd rather get laid in Hiroshima than rule in New York!
 *****************************
 *****************************
 128
 New Jack City
-(192_The Departed) | 
+(192_The Departed) | I prefer my gangstas many shades whiter and with thick Boston accents, thank you very much!
 (015_Enigma of Kaspar Hauser) | 
-(083_Herdsmen of the Sun) | 
+(083_Herdsmen of the Sun) | All this toxic masculinity! Couldn't they just have a beauty contest instead?
 *****************************
 *****************************
 129
 Welcome to the Dollhouse
 (196_Sois Belle et Tais Toi) | Dawn Weiner would probably have been more popular if she could just learn to shut up and be pretty...
-(018_Nimic) | 
+(018_Nimic) | Poor Dawn. At least she didn't have any creeps stalking and mimicking her...
 (029_Cecil B. Demented) | Hooking up with other outsider weirdos probably would have been good for her. Plus I bet she'd be good at splicing film with those long fingers.
 *****************************
 *****************************
 130
 Menace II Society
-(221_24 Hour Party People) | 
-(154_Johnny Guitar) | 
+(221_24 Hour Party People) | Whether you're a gangsta in South Central or some idiot rave kid in Manchester trying to make an album, stay away from crack!
+(154_Johnny Guitar) | I do love films that have a tragic shootout at the end!
 (014_Un Chien Andalou) | This movie gives me the strange urge to watch 1990s hood films and early surrealist films in an endless loop for some reason!
 *****************************
 *****************************
 131
 Friday
-(077_Paint Your Wagon) | 
-(032_Rodin) | 
-(076_Crimes of the Future) | I've heard marijuana can be good for digestion. Is there any furniture that has the same effect?
+(077_Paint Your Wagon) | Alcohol and drugs can be dangerous. One minute you've got a good buzz, and then later you wake up hungover and you've bought something stupid at auction...like a wife!
+(032_Rodin) | I've heard some strains of weed can make a person more creative...
+(076_Crimes of the Future) | I've also heard marijuana can be good for digestion. Is there any furniture that has the same effect?
 *****************************
 *****************************
 132
 Frances Ha
-(107_Gates of Heaven) | 
+(107_Gates of Heaven) | If teaching kids dance doesn't pan out, she could always get a job in a pet cemetery!
 (244_Holy Motors) | Too bad for Frances that someone already took the one job in Paris that was available for experimental dancers/choreographers...
 (202_Masculin Feminin) | 
 *****************************
@@ -932,15 +932,15 @@ Killer of Sheep
 *****************************
 134
 The Hudsucker Proxy
-(239_Madame Bovary) | 
-(104_Meeting Gorbachev) | 
+(239_Madame Bovary) | I can see why a young person might want to move away from a place like Muncie to try their luck in the city!
+(104_Meeting Gorbachev) | Sometimes putting a new person with radical ideas in charge can work out well, whether you want it to or not!
 (163_Latcho Drom) | I know I should probably watch Putney Swope next, but for the moment at least let's listen to some gypsy jazz!
 *****************************
 *****************************
 135
 Metropolis
 (160_Daisies) | 
-(116_Cool World) | 
+(116_Cool World) | A bit disappointed--I thought this was going to be the animated one!
 (250_Beware of a Holy Whore) | 
 *****************************
 *****************************
@@ -954,7 +954,7 @@ The Red Shoes
 137
 Black Narcissus
 (202_Masculin Feminin) | 
-(092_How Much Wood Would a Woodchuck Chuck) | 
+(092_How Much Wood Would a Woodchuck Chuck) | Those nuns would have more time to fool around if they could read their daily prayers a bit faster!
 (117_Interstellar) | 
 *****************************
 *****************************
@@ -989,8 +989,8 @@ Bonfire of the Vanities
 142
 The Accidental Tourist
 (072_We Are All Going to the World's Fair) | 
-(093_Handicapped Future) | 
-(241_Soapdish) | 
+(093_Handicapped Future) | Travel sucks. If there's one benefit to being handicapped, it's that no one minds if you're a homebody!
+(241_Soapdish) | I guess age gap relationships are fine as long as no one is secretly related!
 *****************************
 *****************************
 143
@@ -1200,14 +1200,14 @@ The Battle of Algiers
 Bottle Rocket
 (138_Peeping Tom) | 
 (156_Rififi) | 
-(053_Star Trek 2: The Wrath of Khan) | 
+(053_Star Trek 2: The Wrath of Khan) | That Dignan was a good strategist, but he's got nothing on that Khan Noonien Singh fellow!
 *****************************
 *****************************
 173
 Quadrophenia
-(231_Boyhood) | 
-(183_Julien Donkey-Boy) | 
-(219_Housebound) | 
+(231_Boyhood) | I do love a good coming of age story!
+(183_Julien Donkey-Boy) | Young people need healthier hobbies than mopeds and drugs. Why not try wrestling or ice skating?
+(219_Housebound) | Sometimes it's better to keep troublesome teenagers close to home so they stay out of trouble!
 *****************************
 *****************************
 174
@@ -1464,8 +1464,8 @@ Tout Va Bien
 *****************************
 210
 British Sounds
-(133_Killer of Sheep) | 
-(160_Daisies) | 
+(133_Killer of Sheep) | The factory sounds from the start of this movie are a treat for the ears. I wonder what a slaughterhouse would sound like...
+(160_Daisies) | Love the chaotic parts. Got anything with really messy eaters?
 (057_Cobra Verde) | 
 *****************************
 *****************************
@@ -1478,8 +1478,8 @@ Le Petit Soldat
 *****************************
 212
 Les Carabiniers
-(222_Les Bonnes Femmes) | 
-(115_Red Army) | 
+(222_Les Bonnes Femmes) | It's always heartwarming to see two creepy French idiots somehow manage to be a hit with the ladies!
+(115_Red Army) | Forget the Army, just join a hockey team instead!
 (214_What We Do Is Secret) | 
 *****************************
 *****************************
@@ -1499,58 +1499,58 @@ What We Do Is Secret
 *****************************
 215
 Made In U.S.A.
-(122_True Grit) | 
+(122_True Grit) | I do love films with a strong young lady as protagonist!
 (056_Delicatessen) | 
 (142_The Accidental Tourist) | 
 *****************************
 *****************************
 216
 Antoine et Colette
-(103_Gesualdo: Death for Five Voices) | 
-(187_The Life Aquatic with Steve Zissou) | 
-(019_Dottie Gets Spanked) | 
+(103_Gesualdo: Death for Five Voices) | Needs more madrigals.
+(187_The Life Aquatic with Steve Zissou) | It's nice seeing a man pursue something he's passionate about, whether it's a girl or a shark!
+(019_Dottie Gets Spanked) | Maybe Antoine should have written Colette a fan letter...
 *****************************
 *****************************
 217
 Suburbia
-(059_Stroszek) | 
+(059_Stroszek) | Maybe those punks would have fared better in Wisconsin!
 (121_Plague Dogs) | Those stray dogs looked pretty ragged. Wonder what their story is...
 (101_Happy People: A Year in the Taiga) | In Soviet Russia, hooligans like this would have been shipped off to Siberia!
 *****************************
 *****************************
 218
 SubUrbia
-(080_God's Angry Man) | 
-(105_The Fire Within: Requiem for Katia and Maurice Krafft) | 
+(080_God's Angry Man) | I think God would be angry at the boorishness of most of these slackers and backsliders!
+(105_The Fire Within: Requiem for Katia and Maurice Krafft) | Probably better off dying in a volcano than on the roof of a convenience store...
 (172_Bottle Rocket) | Those young men need to come up with a solid plan for breaking out of their rut and making it big!
 *****************************
 *****************************
 219
 Housebound
 (213_The Decline of Western Civilization) | An ankle bracelet is the ultimate punk accessory!
-(049_Ivan's Childhood) | 
+(049_Ivan's Childhood) | Kids like Eugene who are good at mechanics and sneaking around would be great in the Army!
 (206_Weekend) | Better being housebound than being stuck in traffic for ages and ages!
 *****************************
 *****************************
 220
 Les Cousins
-(207_One Plus One) | 
-(219_Housebound) | 
-(199_Bluebeard (Chabrol)) | 
+(207_One Plus One) | This didn't do it for me. Maybe a rockumentary would be more my speed...
+(219_Housebound) | Living near family members can be stressful, especially when your neighbors are also weirdos!
+(199_Bluebeard (Chabrol)) | Got anything else by Chabrol? Preferably with some serial murders...
 *****************************
 *****************************
 221
 24 Hour Party People
-(171_The Battle of Algiers) | 
+(171_The Battle of Algiers) | It's a bit inspiring to see someone stick to their ideals, even if it doesn't personally go well for them!
 (157_Bob Le Flambeur) | 
-(234_Wittgenstein) | 
+(234_Wittgenstein) | Well, we found out what Boethius would think about the Madchester scene, but what about Ludwig Wittgenstein?
 *****************************
 *****************************
 222
 Les Bonnes Femmes
-(174_L'Insoumis) | 
-(209_Tout Va Bien) | 
-(007_Battleship Potemkin) | 
+(174_L'Insoumis) | Why would those women settle for hanging out with those two childish dopes and a killer when they could be hooking up with Alain Delon?
+(209_Tout Va Bien) | Better off working in an appliance store than a sausage factory!
+(007_Battleship Potemkin) | Hopefully none of those women will be pushing a baby carriage any time soon...especially down the Odessa Steps!
 *****************************
 *****************************
 223
@@ -1640,8 +1640,8 @@ Wittgenstein
 235
 Stop Making Sense
 (112_King Corn) | Keep eating a corn syrup heavy diet, David, and eventually you'll fit into that suit!
-(222_Les Bonnes Femmes) | 
-(209_Tout Va Bien) | 
+(222_Les Bonnes Femmes) | "Psycho Killer, qu'est-ce que c'est?"
+(209_Tout Va Bien) | So were all those roadies and stagehands unionized?
 *****************************
 *****************************
 236
@@ -1653,29 +1653,29 @@ Bent
 *****************************
 237
 Last Tango in Paris
-(097_Echoes from a Somber Empire) | 
+(097_Echoes from a Somber Empire) | Welp. At least there was no actual cannibalism.
 (238_Being Maria) | That "butter" scene was kind of intense. I wonder what that was like to film...
 (071_Alps) | I bet Brando's character could have used some sort of theatrical grievance counseling to cope with his wife's death...
 *****************************
 *****************************
 238
 Being Maria
-(168_Mauvais Sang) | 
-(201_Elevator to the Gallows) | 
-(075_Titane) | 
+(168_Mauvais Sang) | Lots of bad blood on that film set.
+(201_Elevator to the Gallows) | I'd rather be trapped in an elevator than stuck in a room with Brando and Bertolucci.
+(075_Titane) | Let's keep up the theme of bad things happening to bisexual young women...
 *****************************
 *****************************
 239
 Madame Bovary
-(102_Bells from the Deep) | 
+(102_Bells from the Deep) | Can faith healers cure gangrene?
 (176_The Nun (La Religieuse)) | Drinking poison seemed a bit dramatic. Couldn't she just have joined a nunnery?
-(066_Signs of Life) | 
+(066_Signs of Life) | Setting off fireworks can be good stress relief too!
 *****************************
 *****************************
 240
 Day For Night
-(155_Asphalt Jungle) | 
-(190_The Grand Budapest Hotel) | 
+(155_Asphalt Jungle) | Nice seeing how everyone on a film set has a specialty, and if things go according to plan everything pays off like a lucrative jewel heist!
+(190_The Grand Budapest Hotel) | I'd love to take a look behind the scenes at a fancy hotel next!
 (186_Rushmore) | 
 *****************************
 *****************************
