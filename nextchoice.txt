@@ -891,7 +891,7 @@ King of New York
 128
 New Jack City
 (192_The Departed) | I prefer my gangstas many shades whiter and with thick Boston accents, thank you very much!
-(015_Enigma of Kaspar Hauser) | 
+(015_Enigma of Kaspar Hauser) | There's nothing gangsta about stabbing some poor weird feral kid.
 (083_Herdsmen of the Sun) | All this toxic masculinity! Couldn't they just have a beauty contest instead?
 *****************************
 *****************************
@@ -996,8 +996,8 @@ The Accidental Tourist
 143
 Cleo from 5 to 7
 (201_Elevator to the Gallows) | Show me more tense, stressed-out women please!
-(180_L'Amour Fou) | 
-(235_Stop Making Sense) | 
+(180_L'Amour Fou) | If you have two hours to kill, don't watch a Rivette film. Most of them clock in around three hours or more!
+(235_Stop Making Sense) | A Talking Heads concert is just the right length if you have some time to kill in the evening.
 *****************************
 *****************************
 144
@@ -1023,30 +1023,30 @@ Orpheus
 *****************************
 147
 Les Parents Terribles
-(045_Titicut Follies) | 
-(234_Wittgenstein) | 
-(179_La Belle Noiseuse) | 
+(045_Titicut Follies) | Bad parenting leads to bad outcomes. Your kid could end up in a mental hospital!
+(234_Wittgenstein) | Or worse, a philosopher!
+(179_La Belle Noiseuse) | Or if it's a girl, she could end up swinging on a pole or being an artist model or something!
 *****************************
 *****************************
 148
 The 400 Blows
-(070_Kinetta) | 
-(091_The Flying Doctors of East Africa) | 
+(070_Kinetta) | That kid needs some better hobbies. Nothing too creepy or weird though...
+(091_The Flying Doctors of East Africa) | That poor Antoine will never amount to anything. I certainly don't see him becoming a doctor or pilot or anything useful...
 (152_Contempt) | 
 *****************************
 *****************************
 149
 Jules et Jim
 (016_Nosferatu the Vampyre) | 
-(079_Betty Boop Confidential) | 
-(088_Lo and Behold, Reveries of the Connected World) | 
+(079_Betty Boop Confidential) | Love the song in this, but bet she'd be even more of a hit with the guys if her voice was a bit squeakier and her looks a bit more flapper-ish...
+(088_Lo and Behold, Reveries of the Connected World) | Jules and Jim and Catherine were pretty connected, maybe overly so... 
 *****************************
 *****************************
 150
 Hitchcock/Truffaut
 (214_What We Do Is Secret) | Sometimes it's fine to be a bit sloppier than Hitchcock...
 (061_Heart of Glass) | Did Hitchcock ever hypnotize his actors?
-(218_SubUrbia) | 
+(218_SubUrbia) | I have pretty bad vertigo myself, so even getting on the roof of a convenience store would be pretty suspenseful!
 *****************************
 *****************************
 151
@@ -1067,7 +1067,7 @@ Contempt
 La Chinoise
 (129_Welcome to the Dollhouse) | Dawn Weiner will be first against the wall when the revolution comes. Down with the Weiner Dog!
 (035_Gainsbourg: A Heroic Life) | So is Serge Gainsbourg considered Gainsbourgeois?
-(192_The Departed) | 
+(192_The Departed) | All those little red books put me in the mood for some cranberry juice!
 *****************************
 *****************************
 154
@@ -1354,19 +1354,19 @@ Bande a Parte
 A Married Woman
 (134_The Hudsucker Proxy) | 
 (068_Little Dieter Needs to Fly) | I'll never understand dudes who like aviation more than women...
-(082_Invincible) | 
+(082_Invincible) | A married woman is no match for a strong enough man!
 *****************************
 *****************************
 195
 Pierrot Le Fou
-(147_Les Parents Terribles) | 
-(062_Early Short Films of the French New Wave (19)) | 
-(008_The Producers) | 
+(147_Les Parents Terribles) | What kind of parents raise a girl who ends up getting mixed wup with gun smugglers?
+(062_Early Short Films of the French New Wave (19)) | More French New Wave please...but shorter!
+(008_The Producers) | Bet they'd have gotten off easier if they had stuck to white collar crime!
 *****************************
 *****************************
 196
 Sois Belle et Tais Toi
-(006_Parasite) | It's hard to be pretty with a scorpion stinger sticking out of your armpit, but some women can manage.
+(006_Parasite) | Staying quiet is actually pretty important if you're secretly living in someone's house!
 (119_Everything Everywhere All At Once) | 
 (034_Joan of Arc) | Nobody ever told Joan of Arc to shut up and be pretty...
 *****************************
@@ -1374,8 +1374,8 @@ Sois Belle et Tais Toi
 197
 Moonrise Kingdom
 (076_Crimes of the Future) | 
-(196_Sois Belle et Tais Toi) | 
-(189_Une Femme Est Une Femme) | 
+(196_Sois Belle et Tais Toi) | Glad suzy didn't just shut up and be pretty like her parents wanted.
+(189_Une Femme Est Une Femme) | That Francoise Hardy record put me in the mood for some French New Wave! 
 *****************************
 *****************************
 198
@@ -1387,9 +1387,9 @@ Trash Humpers
 *****************************
 199
 Bluebeard (Chabrol)
-(143_Cleo from 5 to 7) | 
+(143_Cleo from 5 to 7) | If you're a woman with some time to kill while you're waiting on something, don't waste it flirting with a serial killer!
 (036_Grizzly Man) | So what happens if you choose the bear instead of the man?
-(078_Jacques Brel Is Alive and Well and Living in Paris) | 
+(078_Jacques Brel Is Alive and Well and Living in Paris) | I wonder how this would be as a Sweeney Todd-type musical...
 *****************************
 *****************************
 200
@@ -1403,14 +1403,14 @@ Kids
 Elevator to the Gallows
 (140_Cosmopolis) | Too tense for me. Something with a "Limousine Ride to a Haircut" sounds more my speed.
 (038_A Trip to the Moon) | Or maybe a Rocket to the Moon would be more ambitious and inspirational.
-(138_Peeping Tom) | 
+(138_Peeping Tom) | It's all fun and games until someone finds the dead bodies and/or photographic evidence you carelessly left laying around!
 *****************************
 *****************************
 202
 Masculin Feminin
-(132_Frances Ha) | 
-(162_The Color of Pomegranates) | 
-(227_Arrival) | 
+(132_Frances Ha) | I love the black-and-white retro feel of this!
+(162_The Color of Pomegranates) | Actually, I'd love to see something more colorful and Armenian...
+(227_Arrival) | Actually, show me an invasion of possibly-benevolent aliens instead. I have some survey questions I'd love to ask them about current events!
 *****************************
 *****************************
 203
@@ -1422,57 +1422,57 @@ But I'm a Cheerleader
 *****************************
 204
 King Lear
-(034_Joan of Arc) | 
-(102_Bells from the Deep) | 
-(028_Kamikaze 1989) | 
+(034_Joan of Arc) | That was...a bit abstract. Could we maybe see a meat-and-potatoes story about some historical figure instead?
+(102_Bells from the Deep) | It would be interesting seeing Norman Mailer try to play Russian faith healer Vissarion...
+(028_Kamikaze 1989) | I was hoping for more outrageous fashion stuff from a film made in the late 1980s...
 *****************************
 *****************************
 205
 Two or Three Things I Know About Her
-(187_The Life Aquatic with Steve Zissou) | 
-(168_Mauvais Sang) | 
-(068_Little Dieter Needs to Fly) | 
+(187_The Life Aquatic with Steve Zissou) | Some people think Godard jumped the shark with this one...
+(168_Mauvais Sang) | Being a prostitute as your fun-money side hustle while your husband is at work seems like a sure way to pick up a blood-borne illness!
+(068_Little Dieter Needs to Fly) | Sometimes people can get so trapped in their gender roles it can feel like a concentration camp!
 *****************************
 *****************************
 206
 Weekend
-(124_Before the Devil Knows You're Dead) | 
-(108_Vernon, Florida) | 
-(016_Nosferatu the Vampyre) | 
+(124_Before the Devil Knows You're Dead) | If you're going to kill your parents as part of some harebrained scheme to get your hands on their money, at least do it by accident!
+(108_Vernon, Florida) | I wonder how the traffic is in the Florida panhandle this time of year...
+(016_Nosferatu the Vampyre) | Cannibalism is a bit much. Doesn't anyone just do plain old vampirism anymore?
 *****************************
 *****************************
 207
 One Plus One
-(209_Tout Va Bien) | 
+(209_Tout Va Bien) | Whether we're talking music or meat, it's always interesting seeing how the sausage is made!
 (198_Trash Humpers) | I think a Rolling Stones documentary now would probably be just a bunch of senior citizens humping trash.
-(102_Bells from the Deep) | 
+(102_Bells from the Deep) | Mick Jagger is charismatic, but he's no Vissarion!
 *****************************
 *****************************
 208
 Punch Drunk Love
-(014_Un Chien Andalou) | 
+(014_Un Chien Andalou) | It's all fun and games until someone loses an eye!
 (173_Quadrophenia) | Impulsive man-child with big dreams? Someone give that man a moped!
-(045_Titicut Follies) | 
+(045_Titicut Follies) | Poor anger management is a good way to end up locked away in a mental hospital.
 *****************************
 *****************************
 209
 Tout Va Bien
-(246_Women on the Verge of a Nervous Breakdown) | 
-(085_Salt and Fire) | 
-(107_Gates of Heaven) | 
+(246_Women on the Verge of a Nervous Breakdown) | Jane Fonda seemed a bit stressed there after her experiences covering that strike...
+(085_Salt and Fire) | Wildcat strikes are a gateway drug to sabotage and eco-terrorism!
+(107_Gates of Heaven) | At least it was a sausage factory and not a pet cemetery!
 *****************************
 *****************************
 210
 British Sounds
 (133_Killer of Sheep) | The factory sounds from the start of this movie are a treat for the ears. I wonder what a slaughterhouse would sound like...
 (160_Daisies) | Love the chaotic parts. Got anything with really messy eaters?
-(057_Cobra Verde) | 
+(057_Cobra Verde) | After watching this, I'm convinced that the Dahomey Amazons would benefit from having a labor union!
 *****************************
 *****************************
 211
 Le Petit Soldat
-(100_The White Diamond) | 
-(042_Monsieur Hulot's Holiday) | 
+(100_The White Diamond) | So did the paratroopers in Algeria ever jump out of blimps?
+(042_Monsieur Hulot's Holiday) | This had so much potential for slapstick hijinks but never delivered
 (111_The Killing Fields) | Okay, the OAS suck, but they got nothing on the Khmer Rouge...
 *****************************
 *****************************
@@ -1480,28 +1480,28 @@ Le Petit Soldat
 Les Carabiniers
 (222_Les Bonnes Femmes) | It's always heartwarming to see two creepy French idiots somehow manage to be a hit with the ladies!
 (115_Red Army) | Forget the Army, just join a hockey team instead!
-(214_What We Do Is Secret) | 
+(214_What We Do Is Secret) | If you're an unskilled young person, there are two places always willing to hire fuckups and train them up to do something slightly better: the Army and fledgling punk rock bands!
 *****************************
 *****************************
 213
 The Decline of Western Civilization
 (089_Ballad of the Little Soldier) | Those young punks could use some discipline...bet the army would sort them out!
 (081_The Great Ecstasy of the Woodcarver Steiner) | Wonder what the distance record is for the longest stage-dive?
-(059_Stroszek) | 
+(059_Stroszek) | Wisconsin seems like a pretty good place to travel to watch the decline of western civilization up close!
 *****************************
 *****************************
 214
 What We Do Is Secret
-(017_The Master) | 
-(084_Queen of the Desert) | 
+(017_The Master) | That Germs burn thing would be a great idea for cult initiation!
+(084_Queen of the Desert) | You know what's really punk? British imperialism! (Okay, I guess that's not very punk at all but that's what's next!)
 (087_Wheel of Time) | Love the Germs logo. Nice and round--reminds me a bit of a mandala...
 *****************************
 *****************************
 215
 Made In U.S.A.
 (122_True Grit) | I do love films with a strong young lady as protagonist!
-(056_Delicatessen) | 
-(142_The Accidental Tourist) | 
+(056_Delicatessen) | I like Godard's "Weekend" better. Show me something with more despicable people, some clowning around, and a bit of cannibalism!
+(142_The Accidental Tourist) | Travel seems like a pain and inconvenience. They could have avoided a lot of this mess if they had just stayed in Paris.
 *****************************
 *****************************
 216
@@ -1562,7 +1562,7 @@ God Help the Girl
 *****************************
 224
 Lola
-(106_Werner Herzog Short Films) | 
+(106_Werner Herzog Short Films) | Enough showgirls. I want something short, German, and weird.
 (148_The 400 Blows) | Hope that poor neighbor girl doesn't get put into juvie after running away, or we could have the makings of an Antoinette Doinel!
 (050_Bad Taste) | Some cannibal aliens would really spice this film up!
 *****************************
@@ -1570,21 +1570,21 @@ Lola
 225
 Stolen Kisses
 (237_Last Tango in Paris) | So where does Last Tango in Paris fit in with the Antoine Doinel films? Is it before or after this one?
-(033_Eiffel) | 
+(033_Eiffel) | All these films set in Paris are great, but what's the deal with that big TV tower thing we keep seeing in the background?
 (150_Hitchcock/Truffaut) | Alright, Truffaut is honestly pretty charming. What did he think of Hitchcock?
 *****************************
 *****************************
 226
 Bed and Board
-(026_Bad Lieutenant: Port of Call New Orleans) | 
-(110_The Fog of War: Eleven Lessons from the Life of Robert S. Macnamara) | 
-(122_True Grit) | 
+(026_Bad Lieutenant: Port of Call New Orleans) | I bet Antoine Doinel would be uniquely bad as a police officer...
+(110_The Fog of War: Eleven Lessons from the Life of Robert S. Macnamara) | What have we learned here? Well, probably not as much as we could have learned from the Vietnam War...
+(122_True Grit) | I can't believe Antoine Doinel still has both his eyes and all of his fingers after all the trouble he manages to get into on the job and off!
 *****************************
 *****************************
 227
 Arrival
-(191_Fantastic Mr. Fox) | 
-(004_Rent) | 
+(191_Fantastic Mr. Fox) | Enough smoke aliens, show me some quirky animated foxes!
+(004_Rent) | Using mahjong with those aliens was dangerous enough. Wonder how badly things would have gone if they would have taught them Monopoly...
 (231_Boyhood) | Pretty sad to know your kid won't make it to their thirteenth birthday. Just goes to show what an ambitious leap of faith Linklater made with his child actors...
 *****************************
 *****************************
@@ -1597,7 +1597,7 @@ The Wolf of Wall Street
 *****************************
 229
 Love on the Run
-(003_There Will Be Blood) | 
+(003_There Will Be Blood) | Sometimes it's nice to catch up with someone from your past, especially if they're up for getting a milkshake or going bowling!
 (053_Star Trek 2: The Wrath of Khan) | You know, this kind of reminds me of that Star Trek TNG episode "Shades of Gray" where Riker gets infected by the alien parasite and the only way to save him is to force him to relive his memories in the form of clips from earlier episodes!
 (073_The Babadook) | This would make a great children's book! (Or at least you could do worse...)
 *****************************
@@ -1612,22 +1612,22 @@ Boyz n the Hood
 231
 Boyhood
 (218_SubUrbia) | Please tell me that kid doesn't just end up back in his hometown standing around the convenience store parking lot after he graduates...
-(246_Women on the Verge of a Nervous Breakdown) | 
-(131_Friday) | 
+(246_Women on the Verge of a Nervous Breakdown) | Patricia Arquette looked pretty frazzled. Bet she could have used a few sips of sedative-spiked gazpacho...
+(131_Friday) | Linklater should know it's all fun and games until they grow up and discover drugs and turn into slackers...
 *****************************
 *****************************
 232
 Shoot the Piano Player
-(167_Night and Fog) | 
+(167_Night and Fog) | They shot a lot more than just piano players in the Holocaust...
 (095_The Dark Glow of the Mountains) | 
 (048_The Steamroller and the Violin) | Shooting the piano player seems a step too far. Could we maybe just bully the violinist instead?
 *****************************
 *****************************
 233
 Pontypool
-(078_Jacques Brel Is Alive and Well and Living in Paris) | 
+(078_Jacques Brel Is Alive and Well and Living in Paris) | Nicely done. This calls for a celebration in the form of weirdly staged Jacques Brel songs!
 (153_La Chinoise) | They should have been using that radio station to broadcast Maoist propaganda!
-(065_The Wild Blue Yonder) | 
+(065_The Wild Blue Yonder) | They did a good job fending off a siege of demented Canadians. I wonder how they'd do against an invasion of Brad Dourif aliens...
 *****************************
 *****************************
 234
@@ -1676,7 +1676,7 @@ Madame Bovary
 Day For Night
 (155_Asphalt Jungle) | Nice seeing how everyone on a film set has a specialty, and if things go according to plan everything pays off like a lucrative jewel heist!
 (190_The Grand Budapest Hotel) | I'd love to take a look behind the scenes at a fancy hotel next!
-(186_Rushmore) | 
+(186_Rushmore) | I bet there's plenty of drama to be seen if you take a close look at fancy private schools as well...
 *****************************
 *****************************
 241
@@ -1696,7 +1696,7 @@ Kika
 243
 Zazie dans le Metro
 (117_Interstellar) | If I were that kid's parent, I'd go into hibernation and see if she grew out of that obnoxiousness!
-(233_Pontypool) | It's all fun and games when most of the city loses their minds and hijinx ensue--until they start babbling nonsense and vomiting blood!
+(233_Pontypool) | It's all fun and games when most of the city loses their minds and hijinks ensue--until they start babbling nonsense and vomiting blood!
 (132_Frances Ha) | Nice to see a young lady having fun running around the streets of Paris!
 *****************************
 *****************************
