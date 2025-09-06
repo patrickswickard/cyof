@@ -393,16 +393,16 @@ Delicatessen
 *****************************
 057
 Cobra Verde
-(047_The Baby) | 
-(045_Titicut Follies) | 
+(047_The Baby) | I wonder what Klaus Kinski was like as a baby...
+(045_Titicut Follies) | I want an army of Amazons to stage theater productions with, but I'd settle for an army of asylum inmates instead.
 (123_The Wiz) | An army of Amazons would be great, but an army of sassy flying monkeys would be even better!
 *****************************
 *****************************
 058
 Un Flic
 (126_Bad Lieutenant) | That cop could have been worse I guess...
-(135_Metropolis) | 
-(056_Delicatessen) | 
+(135_Metropolis) | Less cops, more robots!
+(056_Delicatessen) | Less heists, more cannibalism!
 *****************************
 *****************************
 059
@@ -421,30 +421,30 @@ The Rabbi's Cat
 *****************************
 061
 Heart of Glass
-(101_Happy People: A Year in the Taiga) | 
-(109_The Thin Blue Line) | 
-(015_Enigma of Kaspar Hauser) | 
+(101_Happy People: A Year in the Taiga) | "I loved it!"
+(109_The Thin Blue Line) | "It was great!"
+(015_Enigma of Kaspar Hauser) | "I'm going to see it again and again!"
 *****************************
 *****************************
 062
 Early Short Films of the French New Wave (19)
-(243_Zazie dans le Metro) | 
-(163_Latcho Drom) | That was a lot of short films. I need a musical interlude.
+(243_Zazie dans le Metro) | Those were great, but I think I need something different. How about a live-action cartoon?
+(163_Latcho Drom) | Or maybe a musical interlude?
 (018_Nimic) | More short films by oddball directors, please!
 *****************************
 *****************************
 063
 Lessons of Darkness
-(050_Bad Taste) | 
-(058_Un Flic) | 
-(084_Queen of the Desert) | 
+(050_Bad Taste) | Well that was bleak. I'd love to shut my brain off and just watch some exploding cannibal aliens for awhile.
+(058_Un Flic) | I don't mind a little darkness, but let's make it noir-flavored this time!
+(084_Queen of the Desert) | Got anything with Nicole Kidman in it? Preferably doing some imperialism?
 *****************************
 *****************************
 064
 My Son, My Son, What Have Ye Done
 (019_Dottie Gets Spanked) | Maybe Greek tragedies are a bit much for young people to watch in their formative years. At most they should be watching spicy episodes of "I Love Lucy"...
 (067_Where the Green Ants Dream) | Forget the pizza. He should have asked for a plane.
-(226_Bed and Board) | 
+(226_Bed and Board) | That kid got a bit too much into Greek tragedy. But at least he wasn't some goddamn weeaboo!
 *****************************
 *****************************
 065
@@ -465,7 +465,7 @@ Signs of Life
 Where the Green Ants Dream
 (204_King Lear) | 
 (133_Killer of Sheep) | 
-(002_Shutter Island) | 
+(002_Shutter Island) | Aussie accents are too hard to understand. Could I get some fake-Boston accents instead?
 *****************************
 *****************************
 068
@@ -491,15 +491,15 @@ Kinetta
 *****************************
 071
 Alps
-(032_Rodin) | 
+(032_Rodin) | This plotline wasn't exactly written by Balzac. Just sayin'.
 (008_The Producers) | 
 (039_Haxan) | 
 *****************************
 *****************************
 072
 We Are All Going to the World's Fair
-(074_Kinky Boots) | 
-(167_Night and Fog) | 
+(074_Kinky Boots) | I bet some kinky boots would have gotten that girl some more social media followers...
+(167_Night and Fog) | ...as long as she didn't go and say something stupid and anti-semitic!
 (201_Elevator to the Gallows) | 
 *****************************
 *****************************
@@ -507,20 +507,20 @@ We Are All Going to the World's Fair
 The Babadook
 (206_Weekend) | 
 (087_Wheel of Time) | 
-(149_Jules et Jim) | 
+(149_Jules et Jim) | Single parenting looks rough, so it's probably good to have a spare dude around in case things go bad with the first one!
 *****************************
 *****************************
 074
 Kinky Boots
 (216_Antoine et Colette) | 
 (186_Rushmore) | You know what pairs well with red boots? A red beret!
-(038_A Trip to the Moon) | 
+(038_A Trip to the Moon) | If that shoe factory does well enough, they should expand operations...to the moon!
 *****************************
 *****************************
 075
 Titane
-(046_The Bicycle Thief) | 
-(063_Lessons of Darkness) | 
+(046_The Bicycle Thief) | Everyone needs a good father figure...and you can do worse than a firefighter!
+(063_Lessons of Darkness) | Even carfuckers don't deserve the death penalty!
 (064_My Son, My Son, What Have Ye Done) | 
 *****************************
 *****************************
@@ -528,28 +528,28 @@ Titane
 Crimes of the Future
 (092_How Much Wood Would a Woodchuck Chuck) | I wonder how much those cool chairs would go for at auction...
 (112_King Corn) | I've hard that high fructose corn syrup does wonders for digestion!
-(200_Kids) | 
+(200_Kids) | Cronenberg movies always put me in the mood for uncomfortable sex combined with viruses and parasites. Got anything to indulge me?
 *****************************
 *****************************
 077
 Paint Your Wagon
-(065_The Wild Blue Yonder) | 
+(065_The Wild Blue Yonder) | Polyandry, drunken debauchery, Lee Marvin and Clint Eastwood singing? I need an alien to make sense of this stuff...
 (136_The Red Shoes) | So do Lee Marvin and Clint Eastwood do ballet as well?
-(069_Rescue Dawn) | 
+(069_Rescue Dawn) | When I saw Lee Marvin was in this, I was expecting a little more...war movie action? Could we get something more like that?
 *****************************
 *****************************
 078
 Jacques Brel Is Alive and Well and Living in Paris
-(010_The Five Obstructions) | 
+(010_The Five Obstructions) | This wasn't even close to being a Dogme 95 film!
 (136_The Red Shoes) | Less singing, more dancing please!
 (017_The Master) | 
 *****************************
 *****************************
 079
 Betty Boop Confidential
-(198_Trash Humpers) | 
-(034_Joan of Arc) | 
-(148_The 400 Blows) | 
+(198_Trash Humpers) | Animated flappers are so outdated. I want to see some old people humping trash cans!
+(034_Joan of Arc) | Short hair is a pretty good look on women though. Especially when they go full tomboy!
+(148_The 400 Blows) | I wonder if Betty Boop had a difficult childhood...
 *****************************
 *****************************
 080
@@ -562,35 +562,35 @@ God's Angry Man
 081
 The Great Ecstasy of the Woodcarver Steiner
 (181_Paris Belongs to Us (Paris Nous Appartient)) | 
-(072_We Are All Going to the World's Fair) | 
-(003_There Will Be Blood) | 
+(072_We Are All Going to the World's Fair) | I hate winter sports. I'd rather find a way to have adventures in front of my computer screen!
+(003_There Will Be Blood) | Even bowling is more exciting than skiing!
 *****************************
 *****************************
 082
 Invincible
-(199_Bluebeard (Chabrol)) | 
+(199_Bluebeard (Chabrol)) | You don't have to be strong to swindle war widows out of their pensions!
 (074_Kinky Boots) | I love feats of strength. Got anything with arm-wrestling in it?
-(129_Welcome to the Dollhouse) | 
+(129_Welcome to the Dollhouse) | So what happens if you don't have a brawny older brother to stop people from bullying you?
 *****************************
 *****************************
 083
 Herdsmen of the Sun
-(136_The Red Shoes) | 
+(136_The Red Shoes) | I heard that the tie-breaker for this competition is a dance-off!
 (199_Bluebeard (Chabrol)) | Being a hit with the ladies can be fun AND profitable!
 (023_Fast Company) | Having a great smile is one thing, but what women really love is a fast car!
 *****************************
 *****************************
 084
 Queen of the Desert
-(177_Celine and Julie Go Boating) | 
-(016_Nosferatu the Vampyre) | 
+(177_Celine and Julie Go Boating) | Trekking through the desert is great, but haunted houses are more my speed.
+(016_Nosferatu the Vampyre) | I bet Count Dracula would have given her a royal welcome!
 (210_British Sounds) | All this imperialism just makes me want to put my fist through a Union Jack.
 *****************************
 *****************************
 085
 Salt and Fire
-(118_Hotel Rwanda) | 
-(099_Jag Mandir) | 
+(118_Hotel Rwanda) | All this ecoterrorism was a good warmup. I think I'm ready for some full-on genocide!
+(099_Jag Mandir) | Actually let's back down a bit and watch some colorful parades and costumes and musicians instead.
 (151_Vivre sa Vie) | 
 *****************************
 *****************************
@@ -598,13 +598,13 @@ Salt and Fire
 Wings of Hope
 (225_Stolen Kisses) | 
 (019_Dottie Gets Spanked) | 
-(118_Hotel Rwanda) | 
+(118_Hotel Rwanda) | If you're lost in the jungle, a machete would be a pretty handy tool. But if it's in the wrong hands...
 *****************************
 *****************************
 087
 Wheel of Time
 (096_Nomad: In the Footsteps of Bruce Chatwin) | 
-(200_Kids) | 
+(200_Kids) | Life is suffering, and the pleasures of the moment can lead to pain, and so the cycle continues...
 (027_Le Samourai) | Less Buddha, more Bushido please!
 *****************************
 *****************************
@@ -612,49 +612,49 @@ Wheel of Time
 Lo and Behold, Reveries of the Connected World
 (105_The Fire Within: Requiem for Katia and Maurice Krafft) | Got anything with a longer title?
 (039_Haxan) | Modern technology all just seems like witchcraft to me!
-(184_The Royal Tenenbaums) | 
+(184_The Royal Tenenbaums) | No actual Tenenbaums were interviewed for this documentary, but some of those interviewees had reputations that aged like milk.
 *****************************
 *****************************
 089
 Ballad of the Little Soldier
 (212_Les Carabiniers) | Those kids were pretty young, but the Army can be a pretty grand adventure if you're old enough to enjoy it and bring back souvenirs!
-(150_Hitchcock/Truffaut) | 
+(150_Hitchcock/Truffaut) | Bet Hitchcock could have made a pretty suspenseful film about child soldiers...
 (232_Shoot the Piano Player) | 
 *****************************
 *****************************
 090
 Encounters at the End of the World
 (120_Jodorowsky's Dune) | Antarctica would be even cooler with sand-worms...
-(069_Rescue Dawn) | 
-(157_Bob Le Flambeur) | 
+(069_Rescue Dawn) | Being trapped in a POW camp in Antarctica would be awful. Southeast Asia would be bad enough!
+(157_Bob Le Flambeur) | Gambling would be a pretty good way to waste time when faced with those cold endless nights!
 *****************************
 *****************************
 091
 The Flying Doctors of East Africa
-(025_I'm Not There) | 
+(025_I'm Not There) | Those doctors are lucky to get a Herzog documentary immortalizing them, but a Bob Dylan song would have been even better!
 (193_Bande a Parte) | 
-(009_Rabid) | 
+(009_Rabid) | Bet they see some interesting parasites in that part of the world! But things can be just as bad in Canada...
 *****************************
 *****************************
 092
 How Much Wood Would a Woodchuck Chuck
 (095_The Dark Glow of the Mountains) | 
-(236_Bent) | 
+(236_Bent) | Chucking wood is great exercise, actually. A lot more fun than hauling rocks!
 (146_Orpheus) | 
 *****************************
 *****************************
 093
 Handicapped Future
-(241_Soapdish) | 
-(025_I'm Not There) | 
-(176_The Nun (La Religieuse)) | 
+(241_Soapdish) | Too bad those kids aren't in some soap opera universe, where even decapitations can be overcome and brain transplants can be performed in restaurants!
+(025_I'm Not There) | This is some bleak-ass Herzog. I need something different. Play me some Dylan instead.
+(176_The Nun (La Religieuse)) | Actually I'm not done being depressed. Show me how bad nuns used to have it!
 *****************************
 *****************************
 094
 Huie's Sermon
 (144_The Umbrellas of Cherbourg) | 
 (147_Les Parents Terribles) | I bet Huie would have plenty to say about bad parenting...
-(091_The Flying Doctors of East Africa) | 
+(091_The Flying Doctors of East Africa) | Thoughts and prayers are great, but having actual doctors show up to help people is even better.
 *****************************
 *****************************
 095
@@ -668,7 +668,7 @@ The Dark Glow of the Mountains
 Nomad: In the Footsteps of Bruce Chatwin
 (135_Metropolis) | 
 (050_Bad Taste) | 
-(067_Where the Green Ants Dream) | 
+(067_Where the Green Ants Dream) | Forget dinosaur skins...I want an airplane! Vroom vroom!
 *****************************
 *****************************
 097
@@ -681,15 +681,15 @@ Echoes from a Somber Empire
 098
 Into the Abyss
 (215_Made In U.S.A.) | 
-(090_Encounters at the End of the World) | 
-(156_Rififi) | 
+(090_Encounters at the End of the World) | Why not just send death row prisoners off to life in prison in Antarctica instead?
+(156_Rififi) | This documentary would have benefited from a catchy theme song. 
 *****************************
 *****************************
 099
 Jag Mandir
 (145_Black Orpheus) | I love a good festival. Let's do Carnival in Rio next!
 (232_Shoot the Piano Player) | 
-(167_Night and Fog) | 
+(167_Night and Fog) | I can't think of anything better to chase all these colorful Indian festivities with than a Holocaust documentary!
 *****************************
 *****************************
 100
@@ -701,9 +701,9 @@ The White Diamond
 *****************************
 101
 Happy People: A Year in the Taiga
-(088_Lo and Behold, Reveries of the Connected World) | 
-(188_The Darjeeling Limited) | 
-(211_Le Petit Soldat) | 
+(088_Lo and Behold, Reveries of the Connected World) | I wish we could ship some of our more obnoxious pundits and tech bro messiahs off to Siberia!
+(188_The Darjeeling Limited) | Siberia is a bit remote. Maybe just a convent in the Himalayas.
+(211_Le Petit Soldat) | Those pieds-noirs who fled Algeria were definitely NOT happy people.
 *****************************
 *****************************
 102
@@ -715,7 +715,7 @@ Bells from the Deep
 *****************************
 103
 Gesualdo: Death for Five Voices
-(235_Stop Making Sense) | 
+(235_Stop Making Sense) | Madrigals are nice, but I'm ready for a full concert.
 (172_Bottle Rocket) | 
 (205_Two or Three Things I Know About Her) | 
 *****************************
@@ -723,13 +723,13 @@ Gesualdo: Death for Five Voices
 104
 Meeting Gorbachev
 (127_King of New York) | So does King of New York outrank President of Russia?
-(221_24 Hour Party People) | 
+(221_24 Hour Party People) | Gorbachev did wonders ushering in the declining Soviet Union to a new era. Wonder what he could have done for an ailing rave venue in Manchester?
 (080_God's Angry Man) | 
 *****************************
 *****************************
 105
 The Fire Within: Requiem for Katia and Maurice Krafft
-(051_Blood for Dracula) | 
+(051_Blood for Dracula) | Blood is thicker than water, but is it thicker than lava?
 (217_Suburbia) | In the grand scheme of things, getting killed by a volcano is pretty fucking punk!
 (136_The Red Shoes) | 
 *****************************
@@ -751,7 +751,7 @@ Gates of Heaven
 108
 Vernon, Florida
 (163_Latcho Drom) | Seeing all the turkeys makes me want to see something at least partially set in Turkey!
-(100_The White Diamond) | 
+(100_The White Diamond) | Bet you could shoot a lot of turkeys from an airship!
 (144_The Umbrellas of Cherbourg) | 
 *****************************
 *****************************
@@ -967,7 +967,7 @@ Peeping Tom
 *****************************
 139
 Shivers
-(031_The Maid (2009)) | 
+(031_The Maid (2009)) | I feel bad for whoever has to clean up all that parasite vomit orgy mess!
 (169_The Rules of the Game) | Sometimes people don't even need some disgusting parasite to make them run around fucking each other, though they might be more surreptitious about it if they aren't infected!
 (181_Paris Belongs to Us (Paris Nous Appartient)) | 
 *****************************
@@ -995,7 +995,7 @@ The Accidental Tourist
 *****************************
 143
 Cleo from 5 to 7
-(201_Elevator to the Gallows) | 
+(201_Elevator to the Gallows) | Show me more tense, stressed-out women please!
 (180_L'Amour Fou) | 
 (235_Stop Making Sense) | 
 *****************************
@@ -1016,7 +1016,7 @@ Black Orpheus
 *****************************
 146
 Orpheus
-(123_The Wiz) | 
+(123_The Wiz) | Feeling the gay here. Send me over the rainbow, baby!
 (203_But I'm a Cheerleader) | Um...got anything a little less gay?
 (052_Flesh for Frankenstein) | Or at least with more gore?
 *****************************
@@ -1044,28 +1044,28 @@ Jules et Jim
 *****************************
 150
 Hitchcock/Truffaut
-(214_What We Do Is Secret) | 
-(061_Heart of Glass) | 
+(214_What We Do Is Secret) | Sometimes it's fine to be a bit sloppier than Hitchcock...
+(061_Heart of Glass) | Did Hitchcock ever hypnotize his actors?
 (218_SubUrbia) | 
 *****************************
 *****************************
 151
 Vivre sa Vie
-(232_Shoot the Piano Player) | 
-(174_L'Insoumis) | 
-(005_Rock n Roll High School) | 
+(232_Shoot the Piano Player) | Who needs a piano player when you can dance to the jukebox?
+(174_L'Insoumis) | I was waiting for some rich handsome man like Alain Delon to sweep her away, but this is not Pretty Woman. 
+(005_Rock n Roll High School) | I wonder how many girls have turned tricks for Ramones tix.
 *****************************
 *****************************
 152
 Contempt
 (217_Suburbia) | Pretty fancy place they were living in--anything else to watch for decorating ideas?
-(140_Cosmopolis) | 
+(140_Cosmopolis) | I save my contempt for rich people getting prostate exams in limousines.
 (063_Lessons of Darkness) | 
 *****************************
 *****************************
 153
 La Chinoise
-(129_Welcome to the Dollhouse) | 
+(129_Welcome to the Dollhouse) | Dawn Weiner will be first against the wall when the revolution comes. Down with the Weiner Dog!
 (035_Gainsbourg: A Heroic Life) | So is Serge Gainsbourg considered Gainsbourgeois?
 (192_The Departed) | 
 *****************************
@@ -1074,19 +1074,19 @@ La Chinoise
 Johnny Guitar
 (071_Alps) | 
 (097_Echoes from a Somber Empire) | 
-(169_The Rules of the Game) | 
+(169_The Rules of the Game) | When women wear the pants, they get to set the Rules of the Game!
 *****************************
 *****************************
 155
 Asphalt Jungle
 (081_The Great Ecstasy of the Woodcarver Steiner) | 
-(012_My Best Fiend) | 
-(060_The Rabbi's Cat) | 
+(012_My Best Fiend) | I bet Sterling Hayden was better behaved on set than KlausKinski!
+(060_The Rabbi's Cat) | Every heist team needs a talking cat!
 *****************************
 *****************************
 156
 Rififi
-(185_Desperately Seeking Susan) | 
+(185_Desperately Seeking Susan) | Needs more Madonna.
 (223_God Help the Girl) | That "Rififi" song was kind of a banger, but Belle and Sebastian is more my speed...
 (130_Menace II Society) | 
 *****************************
@@ -1116,7 +1116,7 @@ Jackie Brown
 Daisies
 (075_Titane) | 
 (195_Pierrot Le Fou) | 
-(093_Handicapped Future) | 
+(093_Handicapped Future) | Those gals recovered nicely from losing their limbs. Sadly, that wouldn't happen in real life.
 *****************************
 *****************************
 161
@@ -1136,7 +1136,7 @@ The Color of Pomegranates
 163
 Latcho Drom
 (079_Betty Boop Confidential) | This was fine, but my musical tastes are a little more Cab Calloway...
-(225_Stolen Kisses) | 
+(225_Stolen Kisses) | Japanese culture is also pretty fascinating...to a point!
 (085_Salt and Fire) | 
 *****************************
 *****************************
@@ -1151,20 +1151,20 @@ Ten Things I Hate About You
 Clueless
 (027_Le Samourai) | 
 (011_Fitzcarraldo) | 
-(120_Jodorowsky's Dune) | 
+(120_Jodorowsky's Dune) | I wonder what Jodorowsky's "Emma" would look like...
 *****************************
 *****************************
 166
 Hiroshima Mon Amour
 (128_New Jack City) | 
 (030_Ieri Oggi Domani) | 
-(116_Cool World) | 
+(116_Cool World) | Okay this was artsy and all, but I'm ready for some cartoon titties.
 *****************************
 *****************************
 167
 Night and Fog
 (057_Cobra Verde) | 
-(235_Stop Making Sense) | 
+(235_Stop Making Sense) | Holocaust documentaries always put me in the mood to watch a Talking Heads concert!
 (191_Fantastic Mr. Fox) | 
 *****************************
 *****************************
@@ -1178,21 +1178,21 @@ Mauvais Sang
 169
 The Rules of the Game
 (195_Pierrot Le Fou) | 
-(044_Lynch/Oz) | 
+(044_Lynch/Oz) | The bear was nice. Are there lions and tigers too?
 (051_Blood for Dracula) | 
 *****************************
 *****************************
 170
 Wings of Desire
 (085_Salt and Fire) | 
-(229_Love on the Run) | 
+(229_Love on the Run) | Let's check back in on that Antione Doinel fuckup. I can't imagine his guardian angel hasn't ragequit by now...
 (165_Clueless) | 
 *****************************
 *****************************
 171
 The Battle of Algiers
-(158_Le Doulos) | 
-(216_Antoine et Colette) | 
+(158_Le Doulos) | No one likes a rat!
+(216_Antoine et Colette) | Lower stakes, please. So is that poor Antoine Doinel kid doing well with the ladies?
 (089_Ballad of the Little Soldier) | I bet some of the guys fighting on the other side in Algeria had interesting stories too...
 *****************************
 *****************************
@@ -1213,14 +1213,14 @@ Quadrophenia
 174
 L'Insoumis
 (208_Punch Drunk Love) | 
-(191_Fantastic Mr. Fox) | 
-(228_The Wolf of Wall Street) | 
+(191_Fantastic Mr. Fox) | Okay, so what's the vulpine equivalent of Alain Delon? I imagine George Clooney would do his voice...
+(228_The Wolf of Wall Street) | OAS terrorists are pretty bad, but off-Wall Street finance bros are just rage-inducing...
 *****************************
 *****************************
 175
 Four Adventures of Reinette and Mirabelle
 (142_The Accidental Tourist) | 
-(080_God's Angry Man) | 
+(080_God's Angry Man) | An angry god would not approve of these close female friendships!
 (173_Quadrophenia) | Female friendship is great...but what I really want to see is Ray Winstone's dick!
 *****************************
 *****************************
@@ -1228,7 +1228,7 @@ Four Adventures of Reinette and Mirabelle
 The Nun (La Religieuse)
 (111_The Killing Fields) | 
 (132_Frances Ha) | So do young women still have it that rough?
-(215_Made In U.S.A.) | 
+(215_Made In U.S.A.) | I'd rather see Anna Karina in something more flattering than a nun's habit...
 *****************************
 *****************************
 177
@@ -1242,14 +1242,14 @@ Celine and Julie Go Boating
 Out 1
 (035_Gainsbourg: A Heroic Life) | 
 (158_Le Doulos) | 
-(115_Red Army) | 
+(115_Red Army) | In the time it took to watch that I could have watched like four hockey games!
 *****************************
 *****************************
 179
 La Belle Noiseuse
 (230_Boyz n the Hood) | 
-(249_Pepi, Luci, Bom and Other Girls Like Mom) | 
-(137_Black Narcissus) | 
+(249_Pepi, Luci, Bom and Other Girls Like Mom) | That was surprisingly boring. This may sound like a weird request, but...less nudity, more watersports!
+(137_Black Narcissus) | I'm going to need a lot of nun action to recover from all that full frontal nudity.
 *****************************
 *****************************
 180
@@ -1297,8 +1297,8 @@ Desperately Seeking Susan
 186
 Rushmore
 (161_Funeral Parade of Roses) | 
-(231_Boyhood) | 
-(092_How Much Wood Would a Woodchuck Chuck) | 
+(231_Boyhood) | I love a good coming of age story!
+(092_How Much Wood Would a Woodchuck Chuck) | Fast talking can get you out of a lot of jams, and you could do worse than having Bill Murray as a mentor!
 *****************************
 *****************************
 187
@@ -1312,12 +1312,12 @@ The Life Aquatic with Steve Zissou
 The Darjeeling Limited
 (116_Cool World) | 
 (029_Cecil B. Demented) | 
-(109_The Thin Blue Line) | 
+(109_The Thin Blue Line) | At least none of those brothers got framed for a crime they didn't commit!
 *****************************
 *****************************
 189
 Une Femme Est Une Femme
-(119_Everything Everywhere All At Once) | 
+(119_Everything Everywhere All At Once) | A woman is a woman even if she has hot dog fingers.
 (194_A Married Woman) | Is a woman still a woman if she's a married woman?
 (249_Pepi, Luci, Bom and Other Girls Like Mom) | Meh, needs more watersports.
 *****************************
@@ -1345,15 +1345,15 @@ The Departed
 *****************************
 193
 Bande a Parte
-(223_God Help the Girl) | 
+(223_God Help the Girl) | Two guys and a girl would make a great band, but they'd probably make the girl play bass...
 (179_La Belle Noiseuse) | Spending three hours watching someone paint a single painting makes me understand why someone might prefer doing a speed-run of The Louvre...
-(126_Bad Lieutenant) | 
+(126_Bad Lieutenant) | Weirdly enough, I'm in the mood for a good baseball movie after this!
 *****************************
 *****************************
 194
 A Married Woman
 (134_The Hudsucker Proxy) | 
-(068_Little Dieter Needs to Fly) | 
+(068_Little Dieter Needs to Fly) | I'll never understand dudes who like aviation more than women...
 (082_Invincible) | 
 *****************************
 *****************************
@@ -1366,7 +1366,7 @@ Pierrot Le Fou
 *****************************
 196
 Sois Belle et Tais Toi
-(006_Parasite) | 
+(006_Parasite) | It's hard to be pretty with a scorpion stinger sticking out of your armpit, but some women can manage.
 (119_Everything Everywhere All At Once) | 
 (034_Joan of Arc) | Nobody ever told Joan of Arc to shut up and be pretty...
 *****************************
@@ -1416,7 +1416,7 @@ Masculin Feminin
 203
 But I'm a Cheerleader
 (226_Bed and Board) | 
-(048_The Steamroller and the Violin) | 
+(048_The Steamroller and the Violin) | I heard having a good blue-collar working man role model in one's childhood does wonders for keeping away the gay!
 (062_Early Short Films of the French New Wave (19)) | Watching some early French New Wave shorts is a good way to figure out gender-appropriate ways of behaving!
 *****************************
 *****************************
