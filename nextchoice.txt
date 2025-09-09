@@ -310,7 +310,7 @@ Lynch/Oz
 045
 Titicut Follies
 (069_Rescue Dawn) | Wow, conditions in that place weren't much better than in a POW camp!
-(205_Two or Three Things I Know About Her) | 
+(205_Two or Three Things I Know About Her) | Despite the name, this didn't have any actual titties in it...
 (010_The Five Obstructions) | Pretty good talent show considering it was put on by nothing but inmates and staff. Some people can do great work when challenged by such limitations I guess...
 *****************************
 *****************************
@@ -330,28 +330,28 @@ The Baby
 *****************************
 048
 The Steamroller and the Violin
-(169_The Rules of the Game) | 
-(227_Arrival) | 
-(095_The Dark Glow of the Mountains) | 
+(169_The Rules of the Game) | Enough workers, let's see how the upper class live...
+(227_Arrival) | This would be more exciting with an alien invasion!
+(095_The Dark Glow of the Mountains) | Moscow's pretty, but it isn't as pretty as the mountains...
 *****************************
 *****************************
 049
 Ivan's Childhood
 (173_Quadrophenia) | Russians versus Nazis is fun, but what I'm really in the mood for is Rockers versus Mods.
-(096_Nomad: In the Footsteps of Bruce Chatwin) | 
-(030_Ieri Oggi Domani) | 
+(096_Nomad: In the Footsteps of Bruce Chatwin) | Poor Ivan never got to see much of the world.
+(030_Ieri Oggi Domani) | Very tragic! Good thing children are a renewable resource.
 *****************************
 *****************************
 050
 Bad Taste
-(021_Fata Morgana) | 
-(059_Stroszek) | 
-(072_We Are All Going to the World's Fair) | 
+(021_Fata Morgana) | More dust, less goo please!
+(059_Stroszek) | And maybe some dancing chickens!
+(072_We Are All Going to the World's Fair) | Gross, but honestly I've seen much worse on social media lately!
 *****************************
 *****************************
 051
 Blood for Dracula
-(205_Two or Three Things I Know About Her) | 
+(205_Two or Three Things I Know About Her) | The only way this could be cheesier is if they broke the fourth wall...
 (005_Rock n Roll High School) | Dracula's groupies were pretty hot, but I wonder how they compare to women in thrall to the Ramones?
 (012_My Best Fiend) | Udo Kier was probably a lot easier to work with when playing Dracula than Klaus Kinski was...
 *****************************
@@ -372,8 +372,8 @@ Star Trek 2: The Wrath of Khan
 *****************************
 054
 A Cat In Paris
-(146_Orpheus) | 
-(208_Punch Drunk Love) | 
+(146_Orpheus) | The eternal dilemma: I can't decide if I'm more in the mood for Jean Cocteau now...
+(208_Punch Drunk Love) | ...or Adam Sandler!
 (081_The Great Ecstasy of the Woodcarver Steiner) | Cats are great at always landing on their feet. Wonder how they'd be on skis?
 *****************************
 *****************************
@@ -387,8 +387,8 @@ The Man Who Killed Don Quixote
 056
 Delicatessen
 (007_Battleship Potemkin) | That meat looked really unappetizing. I'd mutiny if someone tried to feed me that stuff...
-(021_Fata Morgana) | 
-(204_King Lear) | 
+(021_Fata Morgana) | Cannibalism is but a mirage.
+(204_King Lear) | I'm ready for something a bit more Shakespearean!
 *****************************
 *****************************
 057
@@ -407,7 +407,7 @@ Un Flic
 *****************************
 059
 Stroszek
-(203_But I'm a Cheerleader) | 
+(203_But I'm a Cheerleader) | Not sure if Stroszek or his friends had any cheerleader background, but a performing chicken could make a pretty good mascot!
 (171_The Battle of Algiers) | Maybe Bruno would have fared better in the Foreign Legion.
 (133_Killer of Sheep) | Why rob a grocery store when you can get a good honest job in a slaughterhouse?
 *****************************
@@ -416,7 +416,7 @@ Stroszek
 The Rabbi's Cat
 (184_The Royal Tenenbaums) | A talking cat beats a precocious genius child any time...you never age out of being a talking cat!
 (142_The Accidental Tourist) | Too much Judaism! Give me something WASPier.
-(133_Killer of Sheep) | 
+(133_Killer of Sheep) | Let's check in on a butcher shop--preferably kosher or halal...
 *****************************
 *****************************
 061
@@ -449,9 +449,9 @@ My Son, My Son, What Have Ye Done
 *****************************
 065
 The Wild Blue Yonder
-(176_The Nun (La Religieuse)) | 
+(176_The Nun (La Religieuse)) | Less aliens, more nuns!
 (094_Huie's Sermon) | I can think of another man who came down from the Heavens to deliver a message to the people of this world...
-(121_Plague Dogs) | 
+(121_Plague Dogs) | That diving stuff was pretty cool. Makes me wonder how well dogs are able to swim...
 *****************************
 *****************************
 066
@@ -463,8 +463,8 @@ Signs of Life
 *****************************
 067
 Where the Green Ants Dream
-(204_King Lear) | 
-(133_Killer of Sheep) | 
+(204_King Lear) | I heard a rumor that there's some version of King Lear directed by Godard. That sounds badass!
+(133_Killer of Sheep) | Do green ants dream of electric sheep?
 (002_Shutter Island) | Aussie accents are too hard to understand. Could I get some fake-Boston accents instead?
 *****************************
 *****************************
@@ -477,8 +477,8 @@ Little Dieter Needs to Fly
 *****************************
 069
 Rescue Dawn
-(210_British Sounds) |
-(192_The Departed) | 
+(210_British Sounds) | I'm glad Dieter got out. I only hope someone can rescue southeast Asia from imperialism!
+(192_The Departed) | Too many Herzog movies lately. I'm ready for some Martin Scorsese!
 (036_Grizzly Man) | The jungle looks scary but at least there aren't any bears!
 *****************************
 *****************************
@@ -506,13 +506,13 @@ We Are All Going to the World's Fair
 073
 The Babadook
 (206_Weekend) | I read that Babadook book too, but he never pestered me. Maybe he got stuck in traffic...
-(087_Wheel of Time) | 
+(087_Wheel of Time) | Some buddhists believe that everyone is reincarnated as a Babadook eventually!
 (149_Jules et Jim) | Single parenting looks rough, so it's probably good to have a spare dude around in case things go bad with the first one!
 *****************************
 *****************************
 074
 Kinky Boots
-(216_Antoine et Colette) | 
+(216_Antoine et Colette) | The right footwear can attract a young woman a better class of suitor...
 (186_Rushmore) | You know what pairs well with red boots? A red beret!
 (038_A Trip to the Moon) | If that shoe factory does well enough, they should expand operations...to the moon!
 *****************************
@@ -521,7 +521,7 @@ Kinky Boots
 Titane
 (046_The Bicycle Thief) | Everyone needs a good father figure...and you can do worse than a firefighter!
 (063_Lessons of Darkness) | Even carfuckers don't deserve the death penalty!
-(064_My Son, My Son, What Have Ye Done) | 
+(064_My Son, My Son, What Have Ye Done) | I heard there was a lot of gender-bending in ancient Greek theater.
 *****************************
 *****************************
 076
@@ -542,7 +542,7 @@ Paint Your Wagon
 Jacques Brel Is Alive and Well and Living in Paris
 (010_The Five Obstructions) | This wasn't even close to being a Dogme 95 film!
 (136_The Red Shoes) | Less singing, more dancing please!
-(017_The Master) | 
+(017_The Master) | Lots of drunken sailors in Jacques Brel's best songs...
 *****************************
 *****************************
 079
@@ -554,14 +554,14 @@ Betty Boop Confidential
 *****************************
 080
 God's Angry Man
-(181_Paris Belongs to Us (Paris Nous Appartient)) | 
-(078_Jacques Brel Is Alive and Well and Living in Paris) | 
-(055_The Man Who Killed Don Quixote) | 
+(181_Paris Belongs to Us (Paris Nous Appartient)) | God wouldn't like communists and intellectuals!
+(078_Jacques Brel Is Alive and Well and Living in Paris) | Did Jacques Brel have any songs about televangelists?
+(055_The Man Who Killed Don Quixote) | I have a soft spot for deranged old men!
 *****************************
 *****************************
 081
 The Great Ecstasy of the Woodcarver Steiner
-(181_Paris Belongs to Us (Paris Nous Appartient)) | 
+(181_Paris Belongs to Us (Paris Nous Appartient)) | Are there any conspiracy theories about ski jumpers?
 (072_We Are All Going to the World's Fair) | I hate winter sports. I'd rather find a way to have adventures in front of my computer screen!
 (003_There Will Be Blood) | Even bowling is more exciting than skiing!
 *****************************
@@ -591,19 +591,19 @@ Queen of the Desert
 Salt and Fire
 (118_Hotel Rwanda) | All this ecoterrorism was a good warmup. I think I'm ready for some full-on genocide!
 (099_Jag Mandir) | Actually let's back down a bit and watch some colorful parades and costumes and musicians instead.
-(151_Vivre sa Vie) | 
+(151_Vivre sa Vie) | Sex work is probably a little safer than dealing with eco-terrorists, but not by much...
 *****************************
 *****************************
 086
 Wings of Hope
-(225_Stolen Kisses) | 
-(019_Dottie Gets Spanked) | 
+(225_Stolen Kisses) | I'd rather be in Paris than stranded in the jungle.
+(019_Dottie Gets Spanked) | This needed more spankings.
 (118_Hotel Rwanda) | If you're lost in the jungle, a machete would be a pretty handy tool. But if it's in the wrong hands...
 *****************************
 *****************************
 087
 Wheel of Time
-(096_Nomad: In the Footsteps of Bruce Chatwin) | 
+(096_Nomad: In the Footsteps of Bruce Chatwin) | This seems like something spiritual enough to inspire someone to pursue a life of adventurous travel!
 (200_Kids) | Life is suffering, and the pleasures of the moment can lead to pain, and so the cycle continues...
 (027_Le Samourai) | Less Buddha, more Bushido please!
 *****************************
@@ -619,7 +619,7 @@ Lo and Behold, Reveries of the Connected World
 Ballad of the Little Soldier
 (212_Les Carabiniers) | Those kids were pretty young, but the Army can be a pretty grand adventure if you're old enough to enjoy it and bring back souvenirs!
 (150_Hitchcock/Truffaut) | Bet Hitchcock could have made a pretty suspenseful film about child soldiers...
-(232_Shoot the Piano Player) | 
+(232_Shoot the Piano Player) | Kids should be learning to play musical instruments at that age, not shooting rifles!
 *****************************
 *****************************
 090
@@ -632,15 +632,15 @@ Encounters at the End of the World
 091
 The Flying Doctors of East Africa
 (025_I'm Not There) | Those doctors are lucky to get a Herzog documentary immortalizing them, but a Bob Dylan song would have been even better!
-(193_Bande a Parte) | 
+(193_Bande a Parte) | What's the point of flying around like that if you're not even going to do any crimes?
 (009_Rabid) | Bet they see some interesting parasites in that part of the world! But things can be just as bad in Canada...
 *****************************
 *****************************
 092
 How Much Wood Would a Woodchuck Chuck
-(095_The Dark Glow of the Mountains) | 
+(095_The Dark Glow of the Mountains) | Bet the thin air would make it hard being a high-altitude auctioneer!
 (236_Bent) | Chucking wood is great exercise, actually. A lot more fun than hauling rocks!
-(146_Orpheus) | 
+(146_Orpheus) | I hate when people read poetry too fast. No need to rush...
 *****************************
 *****************************
 093
@@ -652,35 +652,35 @@ Handicapped Future
 *****************************
 094
 Huie's Sermon
-(144_The Umbrellas of Cherbourg) | 
+(144_The Umbrellas of Cherbourg) | If you pray hard enough, you'll never need an umbrella to stay safe and dry!
 (147_Les Parents Terribles) | I bet Huie would have plenty to say about bad parenting...
 (091_The Flying Doctors of East Africa) | Thoughts and prayers are great, but having actual doctors show up to help people is even better.
 *****************************
 *****************************
 095
 The Dark Glow of the Mountains
-(041_Poison) | 
-(001_Dogtooth) | 
+(041_Poison) | So how does homosexuality work at high altitudes?
+(001_Dogtooth) | Are there stray cats in those mountains? I heard those can be really dangerous!
 (212_Les Carabiniers) | Those mountains are pretty scenic. They'd look great on postcards!
 *****************************
 *****************************
 096
 Nomad: In the Footsteps of Bruce Chatwin
-(135_Metropolis) | 
-(050_Bad Taste) | 
+(135_Metropolis) | Did Bruce ever make it to any futuristic robot cities?
+(050_Bad Taste) | I bet he never ran across any cannibal aliens either!
 (067_Where the Green Ants Dream) | Forget dinosaur skins...I want an airplane! Vroom vroom!
 *****************************
 *****************************
 097
 Echoes from a Somber Empire
-(011_Fitzcarraldo) | 
-(202_Masculin Feminin) | 
-(185_Desperately Seeking Susan) | 
+(011_Fitzcarraldo) | Let's see some more Herzog...but throw in some Klaus Kinski to make it spicy!
+(202_Masculin Feminin) | Actually scratch that, time for some Godard...
+(185_Desperately Seeking Susan) | I changed my mind. Got anything with Madonna in it?
 *****************************
 *****************************
 098
 Into the Abyss
-(215_Made In U.S.A.) | 
+(215_Made In U.S.A.) | Real life criminals are sad, bleak, and often a bit boring. Let's see something a little more noir-influenced!
 (090_Encounters at the End of the World) | Why not just send death row prisoners off to life in prison in Antarctica instead?
 (156_Rififi) | This documentary would have benefited from a catchy theme song. 
 *****************************
@@ -688,15 +688,15 @@ Into the Abyss
 099
 Jag Mandir
 (145_Black Orpheus) | I love a good festival. Let's do Carnival in Rio next!
-(232_Shoot the Piano Player) | 
+(232_Shoot the Piano Player) | Actually I need a break from color. Got any chiaroscuro for me?
 (167_Night and Fog) | I can't think of anything better to chase all these colorful Indian festivities with than a Holocaust documentary!
 *****************************
 *****************************
 100
 The White Diamond
 (001_Dogtooth) | I love seeing people get that excited about aircraft!
-(204_King Lear) | 
-(239_Madame Bovary) | 
+(204_King Lear) | Wait...there's a King Lear version that's directed by Godard AND has Norman Mailer in it as Lear? Why have I not heard of this?
+(239_Madame Bovary) | Oh the humanity! I bet Balzac or Flaubert would have a field day making a story about these guys...
 *****************************
 *****************************
 101
@@ -708,30 +708,30 @@ Happy People: A Year in the Taiga
 *****************************
 102
 Bells from the Deep
-(250_Beware of a Holy Whore) | 
-(113_Once Upon a Time in America) | 
-(026_Bad Lieutenant: Port of Call New Orleans) | 
+(250_Beware of a Holy Whore) | As with Vissarion, Rasputin, or any other Russian mystics, beweare of a Holy Whore!
+(113_Once Upon a Time in America) | I'm ready to sink in my couch and watch a few hours of Sergio Leone now.
+(026_Bad Lieutenant: Port of Call New Orleans) | Actually, got anything with dirty cops but without Harvey Keitel?
 *****************************
 *****************************
 103
 Gesualdo: Death for Five Voices
 (235_Stop Making Sense) | Madrigals are nice, but I'm ready for a full concert.
-(172_Bottle Rocket) | 
-(205_Two or Three Things I Know About Her) | 
+(172_Bottle Rocket) | Actually I could use some Owen Wilson about now to clear the palate. Luke can come along too I guess...
+(205_Two or Three Things I Know About Her) | Herzog docs often put me in the mood for Godard not-quite documentaries. Got anything that will thrill me?
 *****************************
 *****************************
 104
 Meeting Gorbachev
 (127_King of New York) | So does King of New York outrank President of Russia?
 (221_24 Hour Party People) | Gorbachev did wonders ushering in the declining Soviet Union to a new era. Wonder what he could have done for an ailing rave venue in Manchester?
-(080_God's Angry Man) | 
+(080_God's Angry Man) | No more godless communists, please. Show me a real man of God!
 *****************************
 *****************************
 105
 The Fire Within: Requiem for Katia and Maurice Krafft
 (051_Blood for Dracula) | Blood is thicker than water, but is it thicker than lava?
 (217_Suburbia) | In the grand scheme of things, getting killed by a volcano is pretty fucking punk!
-(136_The Red Shoes) | 
+(136_The Red Shoes) | If lava flows over your shoes, they may be red for a moment, but not for very long!
 *****************************
 *****************************
 106
@@ -743,16 +743,16 @@ Werner Herzog Short Films
 *****************************
 107
 Gates of Heaven
-(156_Rififi) | 
-(028_Kamikaze 1989) | 
-(164_Ten Things I Hate About You) | 
+(156_Rififi) | I'm sad this didn't have a catchier theme song.
+(028_Kamikaze 1989) | This film is so late seventies. Got anything 1980s flavored? Bonus points if it reminds me of Miami Vice!
+(164_Ten Things I Hate About You) | "I hate the way your muscles glisten as you bury people's pets..."
 *****************************
 *****************************
 108
 Vernon, Florida
 (163_Latcho Drom) | Seeing all the turkeys makes me want to see something at least partially set in Turkey!
 (100_The White Diamond) | Bet you could shoot a lot of turkeys from an airship!
-(144_The Umbrellas of Cherbourg) | 
+(144_The Umbrellas of Cherbourg) | Could I get close to the water but far, far away from the Florida panhandle, please?
 *****************************
 *****************************
 109
@@ -779,7 +779,7 @@ The Killing Fields
 112
 King Corn
 (197_Moonrise Kingdom) | I wonder if there's some sort of merit badge for growing your own corn...
-(211_Le Petit Soldat) | 
+(211_Le Petit Soldat) | Is early Godard this corny?
 (147_Les Parents Terribles) | Only terrible parents would feed all this processed food garbage to their children!
 *****************************
 *****************************
@@ -814,7 +814,7 @@ Cool World
 117
 Interstellar
 (190_The Grand Budapest Hotel) | Just goes to show that it's always best to consult your concierge about travel times when setting an itinerary!
-(103_Gesualdo: Death for Five Voices) | 
+(103_Gesualdo: Death for Five Voices) | A bit too epic for me. Got anything with smaller stakes?
 (032_Rodin) | Nicely apocalyptic, but I prefer my apocalypses with a side of radioactive pteranodons. What's the closest thing you've got for me?
 *****************************
 *****************************
@@ -822,19 +822,19 @@ Interstellar
 Hotel Rwanda
 (064_My Son, My Son, What Have Ye Done) | Murdering people with swords or machetes is kind of an odd thing to do in our modern world...
 (237_Last Tango in Paris) | Anyone who runs a hotel can't be all bad, I guess...
-(021_Fata Morgana) | 
+(021_Fata Morgana) | Are there deserts in Rwanda? My geography is pretty bad...
 *****************************
 *****************************
 119
 Everything Everywhere All At Once
 (179_La Belle Noiseuse) | As the name suggests, that was pretty loud and chaotic. Bob Ross is a bit more my speed...
 (228_The Wolf of Wall Street) | What have we learned? Always be honest with your financial paperwork. White collar crime can get you into trouble!
-(222_Les Bonnes Femmes) | 
+(222_Les Bonnes Femmes) | Knowing martial arts is good for young ladies dating strangers. You never know when you may need to defend yourself!
 *****************************
 *****************************
 120
 Jodorowsky's Dune
-(087_Wheel of Time) | 
+(087_Wheel of Time) | More sand please!
 (043_Munchhausen) | Jodorowsky could probably do a pretty good job telling something a little more focused than Dune, like the adventures of Baron Munchhausen!
 (159_Jackie Brown) | On the other hand, I really do NOT want to see Jodorowsky adapting anything by Elmore Leonard!
 *****************************
@@ -988,7 +988,7 @@ Bonfire of the Vanities
 *****************************
 142
 The Accidental Tourist
-(072_We Are All Going to the World's Fair) | 
+(072_We Are All Going to the World's Fair) | Why travel the world when you can have adventures on social media in your own bedroom?
 (093_Handicapped Future) | Travel sucks. If there's one benefit to being handicapped, it's that no one minds if you're a homebody!
 (241_Soapdish) | I guess age gap relationships are fine as long as no one is secretly related!
 *****************************
@@ -1032,12 +1032,12 @@ Les Parents Terribles
 The 400 Blows
 (070_Kinetta) | That kid needs some better hobbies. Nothing too creepy or weird though...
 (091_The Flying Doctors of East Africa) | That poor Antoine will never amount to anything. I certainly don't see him becoming a doctor or pilot or anything useful...
-(152_Contempt) | 
+(152_Contempt) | Poor kid. Get ready though, there's plenty of heartbreak to be had even when you grow up and get married!
 *****************************
 *****************************
 149
 Jules et Jim
-(016_Nosferatu the Vampyre) | 
+(016_Nosferatu the Vampyre) | How about instead of having two boyfriends, you just have one but he's a vampire?
 (079_Betty Boop Confidential) | Love the song in this, but bet she'd be even more of a hit with the guys if her voice was a bit squeakier and her looks a bit more flapper-ish...
 (088_Lo and Behold, Reveries of the Connected World) | Jules and Jim and Catherine were pretty connected, maybe overly so... 
 *****************************
@@ -1101,15 +1101,15 @@ Bob Le Flambeur
 158
 Le Doulos
 (029_Cecil B. Demented) | No one likes a rat. Unless you're from Baltimore!
-(014_Un Chien Andalou) | 
-(208_Punch Drunk Love) | 
+(014_Un Chien Andalou) | Snitches get stitches...but not in the eyeball!
+(208_Punch Drunk Love) | Enough hard-boiled noir stuff. Give me a feel-good Adam Sandler film!
 *****************************
 *****************************
 159
 Jackie Brown
 (175_Four Adventures of Reinette and Mirabelle) | This movie passed the Bechdel test! Let's celebrate by watching one that will be a slam-dunk on that test!
 (046_The Bicycle Thief) | Sometimes thieving pays off big, but sometimes it ends in humiliation...
-(171_The Battle of Algiers) | 
+(171_The Battle of Algiers) | How much are flights to Algeria?
 *****************************
 *****************************
 160
@@ -1121,9 +1121,9 @@ Daisies
 *****************************
 161
 Funeral Parade of Roses
-(110_The Fog of War: Eleven Lessons from the Life of Robert S. Macnamara) | 
+(110_The Fog of War: Eleven Lessons from the Life of Robert S. Macnamara) | Not sure what lessons I'm supposed to take away from this. Maybe Robert S. Macnamara can tell me!
 (083_Herdsmen of the Sun) | I can appreciate a man who knows how to apply makeup!
-(097_Echoes from a Somber Empire) | 
+(097_Echoes from a Somber Empire) | Straighter and less Oedipal, please!
 *****************************
 *****************************
 162
@@ -1184,9 +1184,9 @@ The Rules of the Game
 *****************************
 170
 Wings of Desire
-(085_Salt and Fire) | 
+(085_Salt and Fire) | All the angels in the world aren't going to save us if we screw up the environment!
 (229_Love on the Run) | Let's check back in on that Antione Doinel fuckup. I can't imagine his guardian angel hasn't ragequit by now...
-(165_Clueless) | 
+(165_Clueless) | Brittany Murphy had the face of an angel...
 *****************************
 *****************************
 171
@@ -1198,8 +1198,8 @@ The Battle of Algiers
 *****************************
 172
 Bottle Rocket
-(138_Peeping Tom) | 
-(156_Rififi) | 
+(138_Peeping Tom) | At least they weren't dumb enough to film their own crimes!
+(156_Rififi) | Love the Mark Mothersbaugh score. A catchy song or two can make or break a film!
 (053_Star Trek 2: The Wrath of Khan) | That Dignan was a good strategist, but he's got nothing on that Khan Noonien Singh fellow!
 *****************************
 *****************************
@@ -1212,14 +1212,14 @@ Quadrophenia
 *****************************
 174
 L'Insoumis
-(208_Punch Drunk Love) | 
+(208_Punch Drunk Love) | That was intense and sad. Can we get a love story next?
 (191_Fantastic Mr. Fox) | Okay, so what's the vulpine equivalent of Alain Delon? I imagine George Clooney would do his voice...
 (228_The Wolf of Wall Street) | OAS terrorists are pretty bad, but off-Wall Street finance bros are just rage-inducing...
 *****************************
 *****************************
 175
 Four Adventures of Reinette and Mirabelle
-(142_The Accidental Tourist) | 
+(142_The Accidental Tourist) | Travel is broadening and is a good way to meet new people, even if you're cranky about it.
 (080_God's Angry Man) | An angry god would not approve of these close female friendships!
 (173_Quadrophenia) | Female friendship is great...but what I really want to see is Ray Winstone's dick!
 *****************************
@@ -1247,23 +1247,23 @@ Out 1
 *****************************
 179
 La Belle Noiseuse
-(230_Boyz n the Hood) | 
+(230_Boyz n the Hood) | Enough girls in the nude, lets get some boys in the hood!
 (249_Pepi, Luci, Bom and Other Girls Like Mom) | That was surprisingly boring. This may sound like a weird request, but...less nudity, more watersports!
 (137_Black Narcissus) | I'm going to need a lot of nun action to recover from all that full frontal nudity.
 *****************************
 *****************************
 180
 L'Amour Fou
-(062_Early Short Films of the French New Wave (19)) | 
+(062_Early Short Films of the French New Wave (19)) | I like this French New Wave stuff. Can I get a sample pack to go please?
 (075_Titane) | That love wasn't THAT crazy. Show me a movie where someone fucks a car!
 (001_Dogtooth) | ...or something with some sibling-on-sibling shoulder licking!
 *****************************
 *****************************
 181
 Paris Belongs to Us (Paris Nous Appartient)
-(200_Kids) | 
-(164_Ten Things I Hate About You) | 
-(061_Heart of Glass) | 
+(200_Kids) | Constantly having to pick the next film is stressful.
+(164_Ten Things I Hate About You) | Can you pick the next one for me?
+(061_Heart of Glass) | I promise I won't complain!
 *****************************
 *****************************
 182
@@ -1340,7 +1340,7 @@ Fantastic Mr. Fox
 The Departed
 (249_Pepi, Luci, Bom and Other Girls Like Mom) | Lots of toxic masculinity here. Got anything with a literal dick-measuring contest?
 (026_Bad Lieutenant: Port of Call New Orleans) | Dirty cops are kind of my jam. Got any more of the same, but set in New Orleans?
-(182_Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles) | 
+(182_Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles) | Got anything equally long but less action-packed?
 *****************************
 *****************************
 193
@@ -1367,7 +1367,7 @@ Pierrot Le Fou
 196
 Sois Belle et Tais Toi
 (006_Parasite) | Staying quiet is actually pretty important if you're secretly living in someone's house!
-(119_Everything Everywhere All At Once) | 
+(119_Everything Everywhere All At Once) | Shut up and be pretty, or be loud and learn kung-fu!
 (034_Joan of Arc) | Nobody ever told Joan of Arc to shut up and be pretty...
 *****************************
 *****************************
@@ -1542,7 +1542,7 @@ Les Cousins
 221
 24 Hour Party People
 (171_The Battle of Algiers) | It's a bit inspiring to see someone stick to their ideals, even if it doesn't personally go well for them!
-(157_Bob Le Flambeur) | 
+(157_Bob Le Flambeur) | Glad Tony Wilson was willing to take a gamble on Manchester music. I love a gambling man!
 (234_Wittgenstein) | Well, we found out what Boethius would think about the Madchester scene, but what about Ludwig Wittgenstein?
 *****************************
 *****************************
@@ -1619,7 +1619,7 @@ Boyhood
 232
 Shoot the Piano Player
 (167_Night and Fog) | They shot a lot more than just piano players in the Holocaust...
-(095_The Dark Glow of the Mountains) | 
+(095_The Dark Glow of the Mountains) | This was very...atmospheric. I can see why someone might be attracted to the dark glow of the mountains, or even the streetlights...
 (048_The Steamroller and the Violin) | Shooting the piano player seems a step too far. Could we maybe just bully the violinist instead?
 *****************************
 *****************************
