@@ -35,9 +35,16 @@ for i in range(1,251):
     thisline_json = json.dumps(lines)
     my_df_col.append(thisline_json)
 
-new_data = {'pagetext': my_df_col}
+new_data = {'text_section': my_df_col}
 df = pd.DataFrame(new_data)
 print(df)
 
 #print(my_df_col)
 df.to_csv('temptemp1.csv')
+
+
+
+df2 = pd.read_csv('sample_list2b.csv')
+df2['text_section'] = my_df_col
+
+df2.to_csv('temptemp2.csv')
