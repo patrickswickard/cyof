@@ -1,4 +1,5 @@
 import pandas as pd
+import json
 
 
 #with open('out.txt', 'w') as f:
@@ -20,7 +21,7 @@ def padnumber(x):
     padded_version = str(x)
   return padded_version
 
-df = pd.read_csv('sample_list2a.csv')
+df = pd.read_csv('sample_list2b.csv')
 
 this_section_number = '1'
 padded_this_section_number = padnumber(this_section_number)
@@ -111,7 +112,8 @@ def make_template(this_section_number,film_title,film_director,film_year,film_ru
   film_director = film_director
   film_year = film_year
   film_running_time = film_running_time
-  text_section = text_section
+  text_section_json = text_section
+  text_section_list = json.loads(text_section)
   choose_section = choose_section
   option_text_1 = option_text_1
   section_number_1 = section_number_1
@@ -149,7 +151,9 @@ def make_template(this_section_number,film_title,film_director,film_year,film_ru
     if not tvtropes_link == 'NONE':
       print('<A HREF="' + tvtropes_link + '"><I>TV Tropes link</I></a>',file=f)
       print('<P>',file=f)
-    print(str(text_section),file=f)
+    #print(str(text_section),file=f)
+    for thisline in text_section_list:
+      print(str(thisline),file=f)
     print('<P>',file=f)
     print('<I>' + str(choose_section) + '</I>',file=f)
     print('<P>',file=f)

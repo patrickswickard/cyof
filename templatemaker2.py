@@ -20,7 +20,7 @@ def padnumber(x):
     padded_version = str(x)
   return padded_version
 
-df = pd.read_csv('sample_list2a.csv')
+df = pd.read_csv('sample_list2b.csv')
 
 this_section_number = '1'
 padded_this_section_number = padnumber(this_section_number)
@@ -127,7 +127,7 @@ def make_template(this_section_number,film_title,film_director,film_year,film_ru
   tvtropes_link = tvtropes_link
   with open('cyof_files/txt/' + padded_this_section_number + '.txt', 'w') as f:
     print('TITLE: ' + str(film_title),file=f)
-    print('TEXT PLACEHOLDER ' + str(padded_this_section_number),file=f)
+    print('TEXT PLACEHOLDER ' + str(text_section),file=f)
 
 #make_template(this_section_number,film_title,film_director,film_year,film_running_time,text_section,choose_section,option_text_1,section_number_1,option_text_2,section_number_2,option_text_3,section_number_3)
 
