@@ -2,7 +2,7 @@ import pandas as pd
 import re
 
 """Demo read lines from file"""
-file = 'nextchoice2.txt'
+file = 'nextchoice3.txt'
 with open(file,'r',encoding='utf-8') as myinfile:
   lines = myinfile.read().splitlines()
   for thisline in lines:
@@ -37,4 +37,4 @@ data['choice3'] = choice3_list
 
 dataframe = pd.DataFrame(data)
 
-dataframe.to_csv('outchoice2.csv')
+dataframe.to_csv('outchoice3.csv')
