@@ -297,7 +297,7 @@ Monsieur Hulot's Holiday
 043
 Munchhausen
 (042_Monsieur Hulot's Holiday) | Lots of adventures to be had when traveling! Even a short getaway can be packed with action and (mis)adventures!
-(047_The Baby) | I'm a bigger fan of Munchhausen sydrome by proxy. Got anything with a baby in it?
+(047_The Baby) | I'm a bigger fan of Munchhausen syndrome by proxy. Got anything with a baby in it?
 (221_24 Hour Party People) | When you have to choose between the truth and the legend, choose the legend! 
 *****************************
 *****************************
@@ -521,7 +521,7 @@ Kinky Boots
 075
 Titane
 (046_The Bicycle Thief) | Everyone needs a good father figure...and you can do worse than a firefighter!
-(063_Lessons of Darkness) | Even carfuckers don't deserve the death penalty!
+(063_Lessons of Darkness) | Even carfuckers shouldn't be sent off to Iraq!
 (064_My Son, My Son, What Have Ye Done) | I heard there was a lot of gender-bending in ancient Greek theater.
 *****************************
 *****************************
@@ -709,7 +709,7 @@ Happy People: A Year in the Taiga
 *****************************
 102
 Bells from the Deep
-(250_Beware of a Holy Whore) | As with Vissarion, Rasputin, or any other Russian mystics, beweare of a Holy Whore!
+(250_Beware of a Holy Whore) | As with Vissarion, Rasputin, or any other Russian mystics, beware of a Holy Whore!
 (113_Once Upon a Time in America) | I'm ready to sink in my couch and watch a few hours of Sergio Leone now.
 (026_Bad Lieutenant: Port of Call New Orleans) | Actually, got anything with dirty cops but without Harvey Keitel?
 *****************************
@@ -764,7 +764,7 @@ The Thin Blue Line
 *****************************
 *****************************
 110
-The Fog of War: Eleven Lessons from the Life of Robert S. Macnamara
+The Fog of War: Eleven Lessons from the Life of Robert S. McNamara
 (238_Being Maria) | Lesson twelve: don't go into a hotel room alone with Colonel Kurtz and a stick of butter!
 (010_The Five Obstructions) | Eleven concepts is a lot to keep track of. I think I could handle five at most!
 (040_Superstar: The Karen Carpenter Story) | Someone needs to remake this with a bunch of G.I. Joe dolls...
@@ -1061,7 +1061,7 @@ Vivre sa Vie
 Contempt
 (217_Suburbia) | Pretty fancy place they were living in--anything else to watch for decorating ideas?
 (140_Cosmopolis) | I save my contempt for rich people getting prostate exams in limousines.
-(063_Lessons of Darkness) | Having to suffer someone's contempt is bad, but at least it's not death row!
+(063_Lessons of Darkness) | Having to suffer someone's contempt is bad, but at least it's not Iraq!
 *****************************
 *****************************
 153
@@ -1081,7 +1081,7 @@ Johnny Guitar
 155
 Asphalt Jungle
 (081_The Great Ecstasy of the Woodcarver Steiner) | Ski-jumping over asphalt would be a terrible idea!
-(012_My Best Fiend) | I bet Sterling Hayden was better behaved on set than KlausKinski!
+(012_My Best Fiend) | I bet Sterling Hayden was better behaved on set than Klaus Kinski!
 (060_The Rabbi's Cat) | Every heist team needs a talking cat!
 *****************************
 *****************************
@@ -1122,7 +1122,7 @@ Daisies
 *****************************
 161
 Funeral Parade of Roses
-(110_The Fog of War: Eleven Lessons from the Life of Robert S. Macnamara) | Not sure what lessons I'm supposed to take away from this. Maybe Robert S. Macnamara can tell me!
+(110_The Fog of War: Eleven Lessons from the Life of Robert S. McNamara) | Not sure what lessons I'm supposed to take away from this. Maybe Robert S. McNamara can tell me!
 (083_Herdsmen of the Sun) | I can appreciate a man who knows how to apply makeup!
 (097_Echoes from a Somber Empire) | Straighter and less Oedipal, please!
 *****************************
@@ -1353,14 +1353,14 @@ Bande a Parte
 *****************************
 194
 A Married Woman
-(134_The Hudsucker Proxy) | How ya gonna keep up down in Muncie after they've seen Paris?
+(134_The Hudsucker Proxy) | How ya gonna keep 'em down in Muncie after they've seen Paris?
 (068_Little Dieter Needs to Fly) | I'll never understand dudes who like aviation more than women...
 (082_Invincible) | A married woman is no match for a strong enough man!
 *****************************
 *****************************
 195
 Pierrot Le Fou
-(147_Les Parents Terribles) | What kind of parents raise a girl who ends up getting mixed wup with gun smugglers?
+(147_Les Parents Terribles) | What kind of parents raise a girl who ends up getting mixed up with gun smugglers?
 (062_Early Short Films of the French New Wave (19)) | More French New Wave please...but shorter!
 (008_The Producers) | Bet they'd have gotten off easier if they had stuck to white collar crime!
 *****************************
@@ -1375,7 +1375,7 @@ Sois Belle et Tais Toi
 197
 Moonrise Kingdom
 (076_Crimes of the Future) | A good scout never performs illegal surgeries!
-(196_Sois Belle et Tais Toi) | Glad suzy didn't just shut up and be pretty like her parents wanted.
+(196_Sois Belle et Tais Toi) | Glad Suzy didn't just shut up and be pretty like her parents wanted.
 (189_Une Femme Est Une Femme) | That Francoise Hardy record put me in the mood for some French New Wave! 
 *****************************
 *****************************
@@ -1558,7 +1558,7 @@ Les Bonnes Femmes
 God Help the Girl
 (121_Plague Dogs) | When I saw Belle and Sebastian were involved, I got excited. but not a Saint Bernard in sight. Got anything with actual dogs?
 (207_One Plus One) | Indie Rock is fine, but I still prefer the Stones.
-(110_The Fog of War: Eleven Lessons from the Life of Robert S. Macnamara) | That main dweeb reminded me of someone. Maybe one of those IBM whiz kids...
+(110_The Fog of War: Eleven Lessons from the Life of Robert S. McNamara) | That main dweeb reminded me of someone. Maybe one of those IBM whiz kids...
 *****************************
 *****************************
 224
@@ -1578,7 +1578,7 @@ Stolen Kisses
 226
 Bed and Board
 (026_Bad Lieutenant: Port of Call New Orleans) | I bet Antoine Doinel would be uniquely bad as a police officer...
-(110_The Fog of War: Eleven Lessons from the Life of Robert S. Macnamara) | What have we learned here? Well, probably not as much as we could have learned from the Vietnam War...
+(110_The Fog of War: Eleven Lessons from the Life of Robert S. McNamara) | What have we learned here? Well, probably not as much as we could have learned from the Vietnam War...
 (122_True Grit) | I can't believe Antoine Doinel still has both his eyes and all of his fingers after all the trouble he manages to get into on the job and off!
 *****************************
 *****************************
