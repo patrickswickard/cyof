@@ -1,6 +1,6 @@
 import pandas as pd
 import json
-
+import re
 
 #with open('out.txt', 'w') as f:
 #  print(mylist, file=f)
@@ -156,8 +156,13 @@ def make_template(this_section_number,film_title,film_director,film_year,film_ru
       print('<A HREF="' + tvtropes_link + '"><I>TV Tropes link</I></a>',file=f)
       print('<P>',file=f)
     #print(str(text_section),file=f)
+    printthisline = False
     for thisline in text_section_list:
-      print(str(thisline),file=f)
+      if printthisline:
+        print(str(thisline),file=f)
+      branch = re.search(r"<P>",thisline)
+      if branch:
+        printthisline = True
     print('<P>',file=f)
     print('<I>' + str(choose_section) + '</I>',file=f)
     print('<P>',file=f)
