@@ -1,2 +1,3 @@
 040 chicago
 098 was -> would be
+090 hamster to hamsters
